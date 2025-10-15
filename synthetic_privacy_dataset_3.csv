@@ -1,0 +1,501 @@
+CaseID,PatientAge,PatientGender,Condition,LegalIssue,Venue,PolicyVersion,IssueDetected,SummaryNote,RequiresReview,LastUpdated
+5d05a220-b6ed-472d-ac12-0043c28134fe,88,Female,HIV,Jurisdiction mismatch,Hospital-A,v2.1,Yes,Finally yeah million rate director once list hospital clearly poor.,No,2023-01-20
+0a8c6456-df26-43bb-906a-a6bf2895f8c2,17,Other,HIV,Minor patient consent,Hospital-A,v1.2,Yes,Ability another your room most these red possible man risk them.,Yes,2023-07-08
+43a55bf3-f7b6-43d7-9b3d-430cdc35fd86,88,Female,Diabetes,Outdated guidelines,Hospital-A,v4.4,No,Local hand her series reason big culture light majority major commercial I year.,Yes,2023-10-06
+b4058c23-3e0d-439e-be63-3a80e049d59f,44,Other,Cardiomyopathy,Data sharing consent,Hospital-A,v3.1,Yes,Hundred trial bar ability win guy.,No,2025-07-14
+505404fb-960c-4ab6-a136-cf9ff9471d37,15,Female,Cancer,Policy inconsistency,Clinic-B,v1.6,No,Through summer food around power market perhaps situation door concern.,No,2020-07-10
+9fc62692-b095-40a8-af4a-fe4ea5d07f08,34,Male,Asthma,Jurisdiction mismatch,Govt-Health,v4.0,No,Prove mind arm community future water able camera who whole.,No,2024-09-04
+82de59ba-225a-47fa-a8f1-6d3707888c88,43,Male,Cancer,Jurisdiction mismatch,Clinic-B,v1.4,No,Mission huge wish itself economy service professional seem child relationship edge major amount.,No,2025-01-21
+23c2ea6d-bdd7-4506-bdb4-d380fa2b3b70,67,Female,Diabetes,Data sharing consent,NGO-Care,v5.9,Yes,Piece camera firm purpose woman adult sure everyone sing according send company someone.,No,2025-04-24
+5d1d70ee-c3f8-424b-9d04-c1f6538030e7,16,Female,HIV,Jurisdiction mismatch,Clinic-B,v3.4,Yes,Popular enough process avoid apply yet already power lawyer course forget record west.,No,2024-08-02
+7f630ef8-ebc8-4cda-8c37-a453fb47d5a7,34,Female,Hypertension,Jurisdiction mismatch,Hospital-A,v4.2,Yes,Always before strong much thousand could.,No,2025-01-19
+bbee8eb1-d81d-44aa-81b3-8c973e276bff,64,Male,Diabetes,Data sharing consent,Hospital-A,v5.3,No,Or technology look yard away owner bank she.,No,2025-03-28
+3d0bde70-8f6a-4354-9304-21ae7bedca43,83,Female,Diabetes,Data sharing consent,Govt-Health,v3.0,No,Challenge occur yourself with involve road various project far drop safe yeah pay.,No,2022-06-22
+961aa79f-9d0a-4591-84ce-976903da3b23,6,Other,Hypertension,Conflicting legal terms,Hospital-A,v2.3,No,Soldier song environmental space oil affect road.,Yes,2025-07-13
+55e93485-555b-4145-8f0e-43351e6112b6,65,Female,Asthma,Data sharing consent,NGO-Care,v1.1,No,Away pretty herself north rock listen bill.,No,2024-11-30
+d3ed5850-33f1-4c56-bb71-3227be10ebed,48,Male,Cardiomyopathy,Policy inconsistency,NGO-Care,v2.6,Yes,Station value leave four power friend road.,Yes,2020-07-01
+c6c0e62b-2157-4ad6-89f1-7be253e6cfe2,5,Female,Hypertension,Jurisdiction mismatch,Govt-Health,v4.4,No,Threat deep American final thing power thing worker sort.,Yes,2024-10-18
+8dc0a5a0-634d-427e-962d-4993bd3489fe,36,Female,Cardiomyopathy,Data sharing consent,Clinic-B,v2.3,No,Your anything fund after simply school believe factor marriage quickly beautiful lose.,Yes,2024-08-23
+98d0e828-9191-487c-9a4e-470416689ba8,20,Male,Asthma,Jurisdiction mismatch,Hospital-A,v2.9,No,Important purpose meet owner identify road.,No,2022-07-26
+e4ee5485-0676-4932-909f-d3ffcb9ab04d,32,Male,Hypertension,Jurisdiction mismatch,Hospital-A,v1.5,Yes,Conference operation training reveal better fact.,No,2020-11-14
+9221f884-49c2-4c56-b5ab-50e049a153a2,35,Other,Hypertension,Data sharing consent,Hospital-A,v4.1,No,Spend market account cause country choice kitchen personal.,No,2024-02-21
+d757032e-25f3-44b3-aa98-038e7eec6411,74,Male,Cancer,Outdated guidelines,Govt-Health,v3.6,Yes,Share serve form institution magazine whether hundred life finally.,No,2024-02-05
+ed09f1a7-55c1-4963-9b33-c8522e563c27,66,Other,Cancer,Conflicting legal terms,Hospital-A,v3.0,Yes,Environment you sing half wind all start final direction term after.,Yes,2022-11-21
+56d5bd19-c9de-4a94-8a26-99f259e2f535,49,Female,Diabetes,Policy inconsistency,NGO-Care,v1.9,Yes,Identify class career major big may building person past develop analysis.,No,2021-04-30
+7db8aac6-f72b-4527-8ff8-f7ee54450fc8,5,Other,Cancer,Jurisdiction mismatch,NGO-Care,v3.5,Yes,Able series court especially probably country husband movie.,Yes,2020-09-04
+0e3ca4f7-e11d-4600-99b0-ff98606b26f1,69,Other,Cancer,Conflicting legal terms,Hospital-A,v3.7,No,Bag follow anyone contain culture mention age business.,Yes,2023-06-12
+af81e598-80c1-47b7-ae6d-9a8432d1a099,14,Female,Diabetes,Policy inconsistency,Hospital-A,v1.1,No,Everything investment might point power part young small behind easy family movie.,Yes,2023-09-01
+781f1f71-f937-4a4c-8d6a-63cf1ac3a3b7,87,Male,HIV,Data sharing consent,Clinic-B,v3.3,Yes,Fire change hot but soldier different majority kitchen plant company.,No,2024-09-28
+cd9e7375-e98f-49b2-9910-ef53f1dc6b05,42,Male,Cancer,Jurisdiction mismatch,NGO-Care,v4.2,Yes,Reason camera plant read quickly create keep individual.,Yes,2020-05-24
+64b68731-f70e-4362-8a81-b87dcac5ad4e,15,Other,Asthma,Outdated guidelines,NGO-Care,v3.2,No,Upon assume cover paper development low.,No,2025-07-07
+ffaed321-98e6-43d8-a6cf-028ef0937325,32,Other,HIV,Conflicting legal terms,Clinic-B,v1.4,No,Carry nice parent heavy nation sort these threat city let old though.,Yes,2025-05-04
+0702c1c3-d807-4812-8ee7-61f230547d89,45,Other,Cardiomyopathy,Jurisdiction mismatch,Hospital-A,v4.4,No,Medical word necessary interesting control various market baby father shake pick so several.,No,2020-04-18
+b2fa8b6f-277e-42d2-a601-d6e6543be988,46,Other,Asthma,Data sharing consent,Hospital-A,v1.9,Yes,Local director key of civil similar blood spring most.,Yes,2025-07-29
+a652a93d-ab63-4431-a39c-eaf43423dcd4,50,Other,Hypertension,Data sharing consent,Hospital-A,v3.2,No,Lot care such article voice federal TV feeling.,No,2021-06-26
+0096ec1b-2a18-4a70-b46b-e6ee0a1e9cac,49,Other,HIV,Jurisdiction mismatch,Govt-Health,v4.7,Yes,Specific industry language let whether car save hit part spring success similar.,Yes,2023-12-08
+9b4d84f3-97f6-42d4-b930-768786a06db6,27,Other,HIV,Jurisdiction mismatch,Clinic-B,v3.3,Yes,System anyone reach shoulder court town even deep Mr her account.,Yes,2020-10-26
+eafeaa34-a498-4175-ac5f-a00ccf6f3d25,49,Female,Cancer,Minor patient consent,Hospital-A,v5.6,No,Worker professor upon in lay public fish attention material.,Yes,2020-02-16
+45253103-4630-40d1-9f37-a7befa2b902e,82,Male,HIV,Policy inconsistency,Hospital-A,v3.1,No,Begin at world concern like protect either task act relate close nation.,No,2022-09-21
+8219816e-c8fd-4374-b37b-e453d7a853ca,50,Female,Cardiomyopathy,Jurisdiction mismatch,Clinic-B,v4.6,No,Suddenly certain play tree local you personal popular occur what.,Yes,2021-01-05
+aa9f1548-e40e-4a2e-b19a-846dc5b5d6c2,27,Male,Hypertension,Minor patient consent,NGO-Care,v1.9,No,Born most sometimes over suggest past really road performance red including space research.,Yes,2021-04-24
+82ba28bf-c311-4a4d-b6cc-462f348b343d,9,Other,Diabetes,Jurisdiction mismatch,Clinic-B,v4.4,No,Most teach story effort travel type cost shoulder I station serve size.,No,2021-08-10
+30951a70-c10e-4b12-b4c5-610e9f55bf6b,81,Male,Hypertension,Policy inconsistency,Hospital-A,v2.5,Yes,Voice either keep current wind Democrat foot store feel grow book charge professional.,No,2022-02-13
+40691b26-f174-463a-929c-fe0d878bd92c,88,Female,Asthma,Data sharing consent,Clinic-B,v5.3,Yes,Then live yeah court message onto character.,No,2020-04-29
+261c36f1-c59d-4e8d-b5e2-da383b7f2319,48,Female,HIV,Outdated guidelines,Govt-Health,v3.9,Yes,Everyone safe why according dream present center set difference build total.,No,2022-04-13
+2147142e-ddcf-42bf-adcf-8cdcf5c92494,29,Other,Cardiomyopathy,Outdated guidelines,NGO-Care,v3.3,Yes,Same receive bring property degree south dark piece rock move.,Yes,2023-03-29
+3dc9abab-1b05-480b-8451-05e38183d426,51,Other,Asthma,Minor patient consent,Clinic-B,v4.4,No,Themselves he interview network performance provide.,No,2022-08-06
+b09cba80-d6f0-4fb5-8d1f-d6e5424263a8,9,Female,Cardiomyopathy,Minor patient consent,Clinic-B,v1.5,Yes,Rest sell reveal exactly our speech by fall window billion.,Yes,2020-05-31
+e9df24b0-fa71-43d5-93b8-7ebc9f5a7fda,71,Male,Hypertension,Minor patient consent,Govt-Health,v5.4,Yes,Forward evening forget care support hope according will glass election huge.,No,2022-01-02
+b794a379-66c0-48db-95c9-9756ffa52d2b,23,Female,HIV,Minor patient consent,Clinic-B,v1.4,Yes,Anyone but as guy perhaps design.,Yes,2024-07-21
+f82b10b2-c56c-4949-8f72-e797e55104ac,42,Male,Hypertension,Conflicting legal terms,Hospital-A,v2.4,No,Structure family pattern week game partner box piece.,No,2025-07-19
+b2f66b00-dd0f-4b52-b602-32a3691774bd,16,Male,Diabetes,Conflicting legal terms,Hospital-A,v2.2,No,Hit protect officer system marriage happy since create somebody officer.,Yes,2023-03-10
+d19a93c5-7cc9-4f29-ad88-cc72c148c765,32,Other,HIV,Conflicting legal terms,NGO-Care,v3.8,Yes,Son rather despite gun her note education quite.,Yes,2025-07-19
+ff66c197-1bf1-435c-b4c4-fa98cc6e065a,83,Other,Cardiomyopathy,Jurisdiction mismatch,Hospital-A,v4.3,No,East detail education fire part hope meet from me meeting cultural property.,Yes,2020-12-11
+a50459d8-cff5-485b-ac0d-d37394c1aac0,46,Male,Cancer,Conflicting legal terms,Govt-Health,v4.3,No,Arrive want figure add rock bed term interest up imagine child list first.,No,2020-11-24
+3d702a5f-3b90-4769-8d88-365eee01408a,67,Male,Diabetes,Jurisdiction mismatch,Clinic-B,v5.8,No,Policy treat fill minute level care.,Yes,2020-01-04
+bb62fc6c-2ebf-45ca-adcb-abad39d2c9c3,47,Other,Cardiomyopathy,Outdated guidelines,Govt-Health,v3.9,No,Administration plant even push wait under quality rest positive such upon show continue.,Yes,2020-03-12
+45f58aa0-d44d-4507-bf27-e3b5c80238eb,42,Female,Cardiomyopathy,Policy inconsistency,Govt-Health,v1.6,Yes,Throughout hope word center oil appear decade learn line enter yard method resource.,No,2025-04-09
+b201ae3f-fd81-4f86-94e1-fbcb629157b5,52,Male,Cancer,Conflicting legal terms,Clinic-B,v3.1,Yes,Attack them himself level Congress tell good truth development.,No,2024-06-10
+d99d1ce9-1eed-4848-8096-600472b81168,28,Male,Diabetes,Jurisdiction mismatch,Hospital-A,v3.9,Yes,Firm star argue how tax particular peace.,Yes,2025-03-01
+2d15a21e-fa3a-407e-9125-492fd739be69,68,Female,Cancer,Outdated guidelines,Clinic-B,v5.6,Yes,Art baby decision yeah institution management stand like say kind.,No,2022-10-25
+709b3375-ee9c-4dd6-9963-3b99e9a1cb7b,38,Other,Asthma,Outdated guidelines,NGO-Care,v3.3,No,Set future carry Mrs build nothing she writer better word quality skin level.,No,2022-09-26
+7db76b99-f99c-4046-9a08-e4bb00230c4e,13,Female,Cancer,Conflicting legal terms,Clinic-B,v3.5,Yes,Part treat matter major one left expect rather painting class because.,Yes,2022-11-03
+ad309a0d-9cfc-4222-8362-16c5f7bc8309,59,Other,Asthma,Data sharing consent,Govt-Health,v5.0,Yes,People song against image coach Republican hour central.,No,2020-12-25
+1dc3bd6b-18e7-4158-8836-38c363205c3c,22,Female,Hypertension,Policy inconsistency,Govt-Health,v2.9,No,Cover south matter fire her skill offer similar nor.,No,2025-07-14
+a707cad4-88ca-4040-aff2-9e8feb89f56f,27,Female,Asthma,Data sharing consent,Hospital-A,v5.6,No,Outside fish wonder perhaps close environment let exactly wish.,Yes,2020-11-21
+380ca6d4-08f2-4505-9fa9-cfa5aec14fff,64,Other,Diabetes,Conflicting legal terms,Hospital-A,v5.5,Yes,Beyond hit with tax bed campaign become economic.,Yes,2021-03-19
+3829c7b3-574e-4386-9f2e-0ad82d3d5af7,46,Other,Cardiomyopathy,Data sharing consent,Govt-Health,v2.6,No,Perhaps worry item however senior chair unit road moment.,Yes,2021-09-03
+8daac5a1-e287-4358-9a31-dd6be366e1f8,37,Male,Cardiomyopathy,Policy inconsistency,Clinic-B,v3.5,No,Threat student dinner general hot thing old.,Yes,2025-06-21
+817580da-e6c4-49ac-8dff-9e422cebb5fe,48,Male,Cancer,Jurisdiction mismatch,Govt-Health,v3.9,No,Trial raise determine strategy same sell save people guy.,No,2023-10-20
+0cda24a5-2b44-4d71-9715-bfc8b85613ff,66,Male,HIV,Jurisdiction mismatch,Govt-Health,v3.5,Yes,Surface necessary often blue environment end stock option determine model yourself south.,No,2025-07-12
+110fa4e9-19ce-4a38-8985-16f1c1715bfa,39,Other,Cardiomyopathy,Conflicting legal terms,Hospital-A,v2.7,Yes,Increase behind way accept direction add bad name smile.,Yes,2020-03-30
+5c8b45f7-a4c5-4855-8906-25d27059fdf4,57,Other,Diabetes,Jurisdiction mismatch,NGO-Care,v1.8,No,Spend car recognize series example the talk case.,No,2021-08-08
+b584d88c-8bb8-4c5d-9d2d-e0ef4d3a48c0,55,Female,Cancer,Data sharing consent,Govt-Health,v4.6,Yes,Structure yard tough major let officer list benefit gas.,Yes,2025-05-13
+51e469e5-5d69-4917-8c33-f2e26fbbecdd,89,Other,Asthma,Jurisdiction mismatch,Hospital-A,v3.5,No,Can dog table resource upon seat left add man sport.,Yes,2025-06-16
+d9b2d0bd-5318-4b1c-99c5-643b369fca92,30,Other,Hypertension,Conflicting legal terms,Clinic-B,v3.4,Yes,Law idea former writer behind Republican rule apply free.,No,2023-03-15
+a3f5d3c8-d78b-4d2a-92da-b7a96fffe266,32,Female,Hypertension,Minor patient consent,NGO-Care,v4.0,Yes,Push recently upon rock short item detail cultural operation dinner people.,No,2021-03-16
+8423fe72-29a4-45a2-b4a4-798b4d34c174,76,Other,HIV,Jurisdiction mismatch,NGO-Care,v1.9,No,Able shoulder score experience skin product.,Yes,2021-07-07
+13f16f18-db8c-4038-a213-3b433a261de0,33,Male,Asthma,Outdated guidelines,Clinic-B,v2.1,No,Law hundred court skill tough become evening nor.,Yes,2025-02-03
+20273f6f-ebbc-42fd-9103-6ca295237c5c,17,Female,Asthma,Policy inconsistency,NGO-Care,v4.2,No,Next away plan prove identify talk tough tree senior.,No,2023-10-13
+7de3e7d7-d4ac-48ea-b517-6ee934807be5,5,Other,Asthma,Outdated guidelines,Clinic-B,v2.0,No,Stay among factor operation create office other attack according move reach.,No,2023-01-22
+d17bd6c5-b753-4479-9498-b1fd70d8edca,23,Female,Asthma,Outdated guidelines,Govt-Health,v3.1,No,Relate school against media allow Democrat strategy dinner general go certainly run.,No,2023-03-15
+306d44fe-2469-4079-80ad-bd9c1f569aa1,78,Male,HIV,Minor patient consent,Clinic-B,v3.6,No,Push discuss much forward since receive up nice than city.,Yes,2020-07-21
+f14006aa-a449-4850-81b7-ab2b323c16a6,6,Male,Asthma,Data sharing consent,NGO-Care,v3.1,Yes,Sit ground still want physical minute system southern decide do.,Yes,2023-12-24
+cbaab4a2-bc7b-421d-b2b1-bf01b1a7595e,73,Female,Asthma,Data sharing consent,NGO-Care,v5.5,Yes,Beautiful son camera study back eye deep watch piece.,No,2020-03-17
+59f7a02a-df1d-4459-b3e4-23ae7fe8c0f0,41,Other,HIV,Conflicting legal terms,Clinic-B,v3.0,No,Your anyone PM fast family community pay.,Yes,2024-03-29
+21691ae0-ab8c-4456-a715-ee9307601f3a,13,Other,Asthma,Policy inconsistency,Govt-Health,v1.3,Yes,Lose executive by heart claim need because other commercial onto home find.,No,2024-08-31
+7cc6d373-486f-4b1c-9a3d-a6b814c87679,38,Other,HIV,Outdated guidelines,NGO-Care,v2.2,Yes,Strategy season financial foreign side probably how need represent.,Yes,2023-06-12
+324f992b-9566-4792-9866-1426cfd99540,52,Female,Hypertension,Minor patient consent,Clinic-B,v1.2,Yes,World amount several trade sound my various.,Yes,2022-11-27
+b417f708-c2f0-4efa-9264-a6c6e3ecdf0e,59,Male,Asthma,Data sharing consent,NGO-Care,v2.4,No,Talk guy where painting also focus.,No,2025-06-23
+aba4f7c9-3322-42f5-b83b-bf5ac479fbee,8,Male,Diabetes,Minor patient consent,Govt-Health,v1.8,Yes,Contain figure after try late yard our return man performance natural.,No,2025-02-23
+a7aba05d-6ecd-4b81-ba9a-0bcb7239065e,86,Other,Asthma,Outdated guidelines,Hospital-A,v4.2,No,Fast best total ahead benefit however section.,No,2024-03-17
+aeae6f9c-6d06-439d-a89a-66a733440fb2,30,Other,Asthma,Data sharing consent,Hospital-A,v3.9,Yes,Offer court large response amount history production statement language may policy.,Yes,2024-01-12
+d8e5a8aa-a402-4065-a6f7-590bb4074b9f,57,Other,Cancer,Jurisdiction mismatch,Clinic-B,v5.7,Yes,Sound gas money begin work no box week area then.,Yes,2023-07-23
+fa1a473b-ad9e-4f7e-ab6a-922eba40b6a0,12,Other,Diabetes,Outdated guidelines,Hospital-A,v4.4,No,Suffer paper make per land street ok particular message.,Yes,2024-06-04
+aefd11e5-5323-4079-a87b-49ca47e392f8,70,Male,Hypertension,Outdated guidelines,Govt-Health,v3.8,No,Window world take sport something detail left it star store.,No,2020-11-13
+b2c4c0f7-c3b6-48ff-a60c-1aa43b5686f6,46,Male,Asthma,Minor patient consent,Clinic-B,v1.6,Yes,Manager act morning husband car million medical opportunity talk mission may scientist.,No,2024-08-16
+2d0a6eeb-48a6-4aaf-9325-1463d53836db,11,Female,HIV,Policy inconsistency,Hospital-A,v1.6,No,Price total staff somebody environment blue away.,Yes,2021-04-24
+03b7878f-a51c-4aea-9407-4823aa40baa2,68,Male,Cardiomyopathy,Policy inconsistency,Hospital-A,v5.5,No,Top rock process pressure bit heavy operation people prevent make.,No,2022-03-17
+20ebb61c-7881-4d78-b4de-3a9f4204a7a0,13,Other,Cancer,Outdated guidelines,NGO-Care,v1.2,No,Finish several structure note spring build letter must opportunity student increase.,Yes,2021-07-10
+b49867ae-b946-45f9-8e3b-54b42ad86dd4,24,Male,Cancer,Jurisdiction mismatch,NGO-Care,v5.6,Yes,Population moment agency none support over.,No,2022-01-26
+4502c8c1-22dc-4475-8296-3dc2b43cf3c6,28,Male,Cardiomyopathy,Minor patient consent,NGO-Care,v2.2,Yes,Save pass area among direction radio.,Yes,2020-09-11
+0c2d0f8f-6a2f-4b9a-a041-5648944c922f,46,Male,Asthma,Minor patient consent,Hospital-A,v1.5,Yes,Republican particularly never provide expect Congress trade artist remain bad.,Yes,2025-05-20
+037c702a-1dee-4ec0-90dd-50de195132af,60,Other,Cardiomyopathy,Outdated guidelines,NGO-Care,v5.6,No,Animal support agency check wonder president compare suffer month serve research.,Yes,2020-01-26
+8b07765a-a873-4452-b891-dc942156e4ee,19,Other,Asthma,Outdated guidelines,Hospital-A,v2.7,Yes,Peace early value billion change you accept accept business relate after throw.,Yes,2025-06-22
+7f97aa0b-ab18-4935-80f7-3b3f152236fd,74,Other,HIV,Outdated guidelines,NGO-Care,v2.6,Yes,Push force industry six customer deal bad large bill.,No,2025-01-28
+df4d50fb-4cd7-4864-a0e6-98bad20b79fe,71,Other,Asthma,Conflicting legal terms,Govt-Health,v3.6,Yes,Probably put television pass represent class door peace.,Yes,2024-05-05
+7a066d12-4c82-4457-9162-16e98526eac5,56,Male,Diabetes,Conflicting legal terms,Hospital-A,v1.1,No,Point whatever still mention several expert tough course receive authority month expect.,Yes,2022-07-23
+26465a0b-6e3e-4258-8126-3ae2800beed3,46,Male,Hypertension,Outdated guidelines,Govt-Health,v3.0,No,Movie over smile local degree total.,Yes,2020-06-05
+42ceae4c-2893-4d64-9e05-abe9809a26b7,81,Male,HIV,Jurisdiction mismatch,Govt-Health,v5.6,Yes,Far pick course keep wish box there student finish stage any.,No,2023-05-31
+296efba5-58da-4d5b-b1ad-d29baa35cb7c,79,Male,Cardiomyopathy,Conflicting legal terms,Hospital-A,v3.4,Yes,Describe result many final rock tell large effect.,No,2020-01-17
+ae39966e-e784-4b76-9a17-9803ce711f6f,73,Male,Diabetes,Minor patient consent,Hospital-A,v1.8,No,Money tonight mouth ever tend unit risk often major media memory.,No,2020-10-17
+d65e31d6-e748-4f0c-b000-82deeb1defaa,43,Male,HIV,Jurisdiction mismatch,Govt-Health,v1.6,No,Continue left certainly president crime own simple herself forward both toward every box.,No,2023-11-05
+913c5bf7-d6d6-4de2-a2e9-13c7d1d0e7f4,89,Male,Hypertension,Outdated guidelines,Hospital-A,v4.4,Yes,Reality second half light market better here training page democratic weight.,No,2025-04-10
+ab152967-6cb8-4005-8710-042683b2b554,66,Other,Cancer,Policy inconsistency,NGO-Care,v4.2,Yes,Seem certain senior now government within.,Yes,2023-11-12
+018eb083-d3dd-4d62-9136-9fdc9e8dd6c7,21,Male,Hypertension,Jurisdiction mismatch,Hospital-A,v3.0,No,Institution take tree two parent anything create program fact challenge time pay game.,Yes,2021-09-06
+16e49f57-c484-408b-9778-910c6ea5afa7,87,Other,HIV,Conflicting legal terms,Hospital-A,v3.0,Yes,Choose wind police friend table shake exist our society political can.,No,2024-08-01
+f6122600-b7a7-427c-9aeb-efadefd0b0dd,74,Other,HIV,Outdated guidelines,Govt-Health,v5.9,No,Wear street color statement just long door society well step base can.,Yes,2025-01-18
+0e658d6e-3cb5-4346-8296-567b79e177a8,43,Other,HIV,Conflicting legal terms,Govt-Health,v1.7,Yes,Report who course behavior brother those family government movement truth.,No,2024-06-17
+90be3274-9599-4c45-adf9-8a287d95fd52,68,Female,Cardiomyopathy,Policy inconsistency,NGO-Care,v1.1,No,Agreement matter forget cell pay factor black able former rise people view.,Yes,2025-07-08
+e8b8b6f0-157e-4b1b-9626-7a847982dc2b,6,Female,Diabetes,Data sharing consent,Govt-Health,v1.9,No,Family gun social shoulder nature rich something.,Yes,2024-03-28
+cb6249df-1181-43ea-b7cd-b1a6c413d561,70,Other,Cardiomyopathy,Conflicting legal terms,Hospital-A,v2.3,No,Six really debate produce less raise language parent per avoid military manager.,No,2020-04-08
+38737eaf-e649-479c-be67-ff6631b5df16,61,Male,Hypertension,Minor patient consent,Hospital-A,v4.8,No,Red bring court war miss mind collection cultural piece.,No,2020-11-21
+55614804-a746-4721-922e-2a392ccf96e5,83,Male,Asthma,Jurisdiction mismatch,Clinic-B,v1.7,No,Power opportunity decision maybe set expect to ask.,No,2022-12-15
+c7db2e06-9522-4ba1-b70a-4448a372079e,76,Female,Cardiomyopathy,Data sharing consent,NGO-Care,v1.5,No,Tax at every small say continue modern government.,No,2022-05-15
+97bd91c0-e820-4745-866b-59875d98f1ca,56,Other,Hypertension,Jurisdiction mismatch,Hospital-A,v1.5,Yes,Land born decision ahead woman have perhaps happy discussion per.,No,2025-03-29
+9a017323-f2ee-4fa1-b27d-469f2e1248b3,40,Female,Asthma,Minor patient consent,Govt-Health,v1.8,Yes,Simply PM media guess certain true save crime how.,No,2020-12-29
+a82e9ec9-2e64-4001-a7e6-db8ac7e62265,8,Female,Cardiomyopathy,Outdated guidelines,Clinic-B,v5.6,No,Within little out whom side military home heart produce start that whose.,No,2020-05-23
+1bb631a5-0fca-4885-bd06-4ad929108311,27,Other,Cancer,Jurisdiction mismatch,Govt-Health,v5.0,Yes,Foreign institution natural which then together sell economic debate still something.,Yes,2020-08-11
+b1cab4c5-6aa9-4fc6-a27a-177314ef7375,33,Female,Asthma,Policy inconsistency,Govt-Health,v3.9,Yes,Might economic both effect everybody teacher.,No,2021-09-26
+cc69fef0-0cbc-45d8-81ff-8757d84d818a,29,Female,Cardiomyopathy,Data sharing consent,Govt-Health,v1.2,Yes,New worry blue by hair wife.,No,2024-12-05
+536184ed-a7d5-4c95-903f-ab7ba7232803,46,Other,Hypertension,Policy inconsistency,Hospital-A,v5.8,No,Interesting pass yet official control card radio her like after agreement.,Yes,2024-03-26
+f7aff413-ee57-4d9d-985e-3b85f4152af2,29,Male,Cardiomyopathy,Data sharing consent,Govt-Health,v5.5,Yes,Seven believe arrive eight he already.,Yes,2024-07-13
+b98124d0-a782-4a6d-a5f5-2ce4cbb34006,52,Other,Cardiomyopathy,Conflicting legal terms,Govt-Health,v5.4,Yes,Per financial water know sense sense reach outside yeah.,Yes,2025-05-23
+359b31f2-fd58-4a88-97c5-64e1cbc8935d,80,Other,Asthma,Policy inconsistency,Clinic-B,v4.8,Yes,Describe discover appear explain skill health treatment your win.,No,2022-02-10
+c25db35f-eebc-46ed-ad99-61485836f1c1,88,Other,Asthma,Minor patient consent,NGO-Care,v2.4,Yes,Resource one machine response fly once property analysis.,No,2025-02-15
+80eeb4a5-4ffc-4870-81df-ee82bf27c2f5,75,Female,Asthma,Jurisdiction mismatch,NGO-Care,v5.6,Yes,Race necessary win who personal sound offer respond board child bad tough room.,No,2022-07-24
+03e9a65b-10d8-4865-9d47-4cbe5d254f77,88,Other,Asthma,Data sharing consent,Hospital-A,v3.4,No,Law fact study assume history race now.,No,2025-09-10
+2ddeff51-67b4-48f5-a29c-309d6d11c32c,62,Male,Diabetes,Outdated guidelines,Govt-Health,v3.2,Yes,Letter order on play them floor eight before leader Republican security picture.,No,2023-01-15
+a81a0071-d95d-4d97-b312-355373caa5a2,49,Male,HIV,Minor patient consent,Govt-Health,v4.1,Yes,Morning commercial land year concern half woman science treat trip much.,Yes,2021-10-28
+4ad26e9b-a82a-4753-a3fc-827d21353930,26,Other,Asthma,Policy inconsistency,NGO-Care,v2.7,Yes,Hotel wife plant without seat yeah.,Yes,2022-11-16
+609e2aac-c2de-4562-8696-0b336b3f4387,72,Male,HIV,Outdated guidelines,Govt-Health,v5.6,No,Fly quite manager camera practice usually within.,No,2023-01-04
+151cd56d-0f0e-46fe-83bb-135e5a49af42,76,Male,Hypertension,Outdated guidelines,NGO-Care,v4.1,No,Class condition four bad choose threat lot.,No,2025-03-06
+249ca534-65ee-4e02-9c63-e632d194ef4c,12,Female,Asthma,Conflicting legal terms,Govt-Health,v2.2,Yes,Just staff reality establish especially change young skin natural ask perhaps.,No,2024-08-26
+60ad0c51-baed-4670-8e63-b183f37c7829,86,Female,Cardiomyopathy,Jurisdiction mismatch,Govt-Health,v3.9,No,Think price history career set media decade he more.,No,2023-07-31
+06f7ec58-0ef2-4dac-b002-3106351000f9,90,Male,Hypertension,Jurisdiction mismatch,Clinic-B,v1.3,Yes,Vote read give rate line figure.,Yes,2025-05-11
+2090eca7-37c1-4f34-b8b1-a1af2678275a,29,Female,HIV,Minor patient consent,Clinic-B,v2.2,No,Free during cell science already require kind blood stop.,No,2020-03-09
+c83f79ed-2b93-4bb8-9a5d-7f474120cabb,89,Male,Asthma,Conflicting legal terms,Govt-Health,v1.1,Yes,Even become son none one attention from Mr station paper the poor admit.,No,2020-07-07
+a0f5fa73-516d-4570-a554-10976b25f6f9,42,Male,Hypertension,Policy inconsistency,Hospital-A,v1.5,No,Interest town light build discover stay soldier receive public speech expect specific.,No,2024-07-29
+712e7593-8603-407d-a2b1-fca1d15dd9ea,28,Female,Diabetes,Data sharing consent,Govt-Health,v3.0,Yes,Leg everyone middle arrive young know worker whole care safe resource ago include.,Yes,2024-12-08
+ab2b403c-be59-438b-b999-da7f3f83470b,64,Female,HIV,Data sharing consent,Govt-Health,v1.6,Yes,Join art physical business when care right task that.,Yes,2021-09-30
+0b2d5821-be1c-4ea6-aa98-5bfc2e73a66c,20,Female,Hypertension,Jurisdiction mismatch,NGO-Care,v2.1,Yes,Share economy career prepare much good produce however defense occur financial close under.,Yes,2021-11-18
+108ad41e-9c38-4143-9a19-14bab1099805,70,Female,Diabetes,Outdated guidelines,Clinic-B,v4.5,No,Plan fall glass war a who.,No,2023-12-06
+89dcf003-989d-4fe6-bee6-2af924b55e8e,82,Female,Cardiomyopathy,Outdated guidelines,Clinic-B,v3.4,No,Sit ground trade hope chance born feel recently car American.,No,2021-11-27
+73ad0af3-a4a3-49d4-98af-fb64940307ec,13,Other,Cancer,Conflicting legal terms,Hospital-A,v2.5,No,Hair yeah within performance art look drug between alone crime.,No,2021-06-24
+c74eace3-6b10-4946-a8e4-dc3100ebcad9,47,Other,HIV,Outdated guidelines,NGO-Care,v3.3,No,Hear day bar cold radio treat manage manager free event establish fall glass.,Yes,2023-06-10
+6f66b383-7193-4ccb-9601-dac55a65808b,52,Female,HIV,Minor patient consent,NGO-Care,v5.8,Yes,Later use herself dream city college.,No,2020-09-03
+afb81101-c147-4c02-9d36-398829f560bb,19,Male,Diabetes,Policy inconsistency,Hospital-A,v3.4,No,Establish bit discuss east under business write.,No,2022-02-01
+6e2c158b-c9b8-4f2a-8d48-7ce8af9f086b,16,Other,Cancer,Minor patient consent,NGO-Care,v4.2,Yes,Claim each fight top air hundred garden big share city situation trade.,No,2023-01-11
+d6b3a3b3-2d9b-4ef9-bd10-ac8420f87ef8,48,Female,Cancer,Data sharing consent,Hospital-A,v4.4,Yes,Require develop attorney travel perhaps trade use black.,Yes,2022-12-13
+4421717c-d8fa-40d1-84de-dbf5390c9c60,50,Other,HIV,Conflicting legal terms,Hospital-A,v4.9,Yes,Watch face stand him talk fire administration meeting doctor society stop.,Yes,2020-08-10
+73215d3f-4a25-4fbc-b838-659731e113cc,65,Male,Hypertension,Outdated guidelines,Hospital-A,v1.8,Yes,Couple try sign argue best great single.,No,2024-09-27
+b92e90f9-a0f2-4989-8952-052fd0d787cb,80,Female,Hypertension,Policy inconsistency,Clinic-B,v2.8,No,Coach force page central system someone also forget.,Yes,2023-01-01
+82148b33-93cd-48ba-bcf8-62345da90b04,69,Female,Hypertension,Policy inconsistency,Hospital-A,v1.1,No,Decade future say film across newspaper near long fly run.,No,2022-05-24
+42704377-f6c7-4cb8-98b3-d33419e5cf92,18,Female,Cardiomyopathy,Policy inconsistency,Hospital-A,v1.6,Yes,National for knowledge positive low but artist listen garden what which involve.,No,2024-11-17
+34246233-ab8d-4c2f-9f3e-82c23bb7c503,22,Male,Cancer,Minor patient consent,Hospital-A,v2.2,Yes,View standard site check president improve particular.,Yes,2020-05-11
+07bd2899-cfe4-4d90-a4fb-4c81ee597dae,32,Other,Diabetes,Jurisdiction mismatch,NGO-Care,v5.3,Yes,Trial pattern allow make page even kind light TV home what.,No,2020-10-12
+094e992f-bfe0-46ff-899c-e90f16d0df43,84,Other,Diabetes,Minor patient consent,Govt-Health,v3.2,No,Card three agree edge guy heart into.,Yes,2022-02-08
+87bfcdbb-846e-4cba-aaff-ee1d9a8391d9,9,Male,Cancer,Minor patient consent,NGO-Care,v3.6,No,Quite drug street level short manager official.,Yes,2025-03-03
+d7a9f1e3-9780-4d9a-8dc5-8e9a4d5b21e7,7,Female,HIV,Data sharing consent,Govt-Health,v5.3,Yes,Teach TV treat entire thousand although white according attack.,No,2023-12-19
+7f200123-01af-463e-9447-358c2acabae0,30,Male,Asthma,Policy inconsistency,Govt-Health,v5.2,No,Election include figure number but stock fly open seat here approach weight job.,No,2024-09-23
+9573e935-a8b4-48f7-a895-94814fa30b2d,90,Other,Cardiomyopathy,Jurisdiction mismatch,Govt-Health,v3.1,Yes,Model man central give which hot poor respond window soon interest impact laugh.,Yes,2020-08-18
+0d44337f-d5bf-4037-a9db-0925585a9c90,50,Female,Hypertension,Minor patient consent,Govt-Health,v3.4,No,Building who though amount century door peace yard.,Yes,2020-01-16
+3caeb73b-0a0f-48bd-8501-eeb848a669be,30,Female,HIV,Conflicting legal terms,NGO-Care,v5.6,No,Interest long lay behavior if same only different drop expert class rather probably.,Yes,2021-06-07
+ff71e1ef-1184-4ed2-b02c-6dbdbf1596b5,55,Other,Cancer,Minor patient consent,Hospital-A,v5.3,Yes,These particular into watch bank spring direction area quite story.,No,2023-10-13
+0ff81a67-e99c-496e-8004-ced8239150da,18,Female,HIV,Jurisdiction mismatch,Hospital-A,v1.9,Yes,You shake be choose evening society car far more almost.,No,2020-03-31
+a30b8277-670b-4573-9881-ad13e9cb16d0,62,Other,HIV,Policy inconsistency,Hospital-A,v5.9,No,Card three entire indicate glass later nice night around sure help.,No,2021-09-19
+9bd009de-4558-451b-9462-fd3f3cb6464f,43,Female,Cardiomyopathy,Policy inconsistency,Clinic-B,v5.7,No,Husband ask man every blood sometimes some Republican total cup have although old.,No,2020-09-07
+fb54d0bf-b572-4a47-b4ca-07c0a8e01e1d,73,Male,Hypertension,Conflicting legal terms,Hospital-A,v3.8,Yes,Take onto charge street cup nice.,No,2023-06-09
+90983cb9-86ee-4bb2-bbbd-ceadc5c243dc,87,Male,Diabetes,Conflicting legal terms,Clinic-B,v1.3,No,Establish policy range town area worry season always.,No,2023-09-26
+78b13574-79bf-41cf-b2b9-d7f18bcf8651,20,Female,HIV,Data sharing consent,Govt-Health,v1.9,No,Investment sign than dark next grow.,No,2020-11-04
+0c870127-68af-41ee-80e3-eddf29561c67,56,Male,Cardiomyopathy,Outdated guidelines,Hospital-A,v5.8,No,Social police include person another cup themselves forget over it radio.,No,2025-02-14
+e5164653-2c66-435a-a298-803bbea5ff2e,47,Male,Cancer,Conflicting legal terms,Hospital-A,v5.5,No,Mrs mission letter ability onto government truth box fill this.,Yes,2021-10-15
+f8aaf7c2-4149-49d9-bd1a-8909fda4d8c1,10,Female,Asthma,Outdated guidelines,Hospital-A,v4.5,No,Truth certainly author fine speak radio parent piece themselves physical another.,Yes,2021-02-21
+baafd02d-ee58-4059-986a-29cf6c326e5f,76,Male,Asthma,Outdated guidelines,NGO-Care,v2.2,No,None order member they late necessary question hundred raise soon environmental player.,Yes,2023-07-27
+dd5cecff-7d6b-48ef-95ce-a23e4bf59af9,9,Male,Cardiomyopathy,Jurisdiction mismatch,Hospital-A,v5.6,No,Onto else off relationship section fish house.,Yes,2022-10-06
+ce3c0b84-353a-41a6-93a9-d419003547bb,20,Other,HIV,Data sharing consent,Hospital-A,v2.0,Yes,Girl front main bar beautiful than hundred anything she experience fear.,No,2022-04-23
+342c28c9-13aa-42a6-b4cc-7d65f23fcd97,71,Other,HIV,Policy inconsistency,Govt-Health,v4.7,No,Whole around own response raise sign admit cup live.,Yes,2020-06-27
+01cafce7-5113-4236-8deb-9afa2734d90d,28,Other,Hypertension,Jurisdiction mismatch,NGO-Care,v4.5,Yes,Trip admit as prove against operation action economic head opportunity.,No,2023-02-16
+71a5e577-9361-4258-83ba-6c50d05900e4,25,Female,Cardiomyopathy,Conflicting legal terms,NGO-Care,v3.1,Yes,Wind see thing water hospital sure recognize several eye international democratic own day.,Yes,2021-08-27
+ef9a8ed1-502c-4f8c-b77b-60745c93cc60,43,Female,Asthma,Conflicting legal terms,Clinic-B,v4.9,No,Indicate couple major test strategy better name better chair control Congress.,Yes,2022-07-05
+68cb3fe8-1c01-4653-9e85-a2f7da2d7945,34,Other,Asthma,Outdated guidelines,Hospital-A,v3.3,No,Newspaper will unit because energy scientist side peace.,No,2022-08-20
+e4926a8c-8234-46f6-af04-a5c8b8ae4a05,79,Other,Cancer,Data sharing consent,NGO-Care,v2.8,Yes,Economic indeed wonder training require future actually large fire war human card.,Yes,2025-08-16
+45b1e593-dea9-4fe1-8195-41e7184763bb,17,Other,Hypertension,Conflicting legal terms,Hospital-A,v3.6,Yes,Citizen clearly sense far even detail.,No,2020-06-23
+c8b34f8b-d444-4320-a444-fe7ca072ccd8,87,Other,Hypertension,Outdated guidelines,Clinic-B,v3.0,No,Note family tell main property second someone right television suffer event wrong capital.,Yes,2021-02-04
+6e1024aa-c5c8-4a88-b942-9a19197adeca,76,Other,Asthma,Minor patient consent,Clinic-B,v5.8,Yes,Better avoid writer become upon without star.,No,2023-12-24
+f249f671-119e-4c1c-9729-39740c2d3cd4,67,Other,Cardiomyopathy,Data sharing consent,Clinic-B,v4.4,No,Great spring any customer trial lot property improve trouble.,No,2025-08-27
+c64912bd-4048-4b25-95cc-8c72e2f89a53,83,Other,Asthma,Minor patient consent,NGO-Care,v4.8,No,Next well take you stay kind itself the sister.,No,2024-03-14
+93ac0774-8c1b-4ae5-b9db-7e7b5cc36b05,50,Male,Hypertension,Jurisdiction mismatch,Hospital-A,v3.7,No,Wonder hard economy blue manager now box produce miss partner but.,No,2020-02-09
+8a64f0c8-bd95-4f6f-91d9-39cb62491f63,61,Other,HIV,Outdated guidelines,Hospital-A,v5.6,No,Quite several face federal husband green leave book meeting knowledge page finish.,Yes,2024-09-19
+9495e56f-4b6b-497b-b068-9bc6603d5040,81,Female,Diabetes,Conflicting legal terms,Hospital-A,v3.0,No,Ok reduce his item become second entire throughout free sort.,Yes,2025-01-04
+5762cf58-fbdb-468f-a3ed-53564a998ee8,70,Other,Asthma,Data sharing consent,Hospital-A,v2.3,No,Everyone real realize ok though short mother.,Yes,2021-04-13
+5130b88c-b271-4214-8f10-16567166c9ad,51,Male,Asthma,Minor patient consent,Hospital-A,v5.9,No,Day fear once job stay affect guess me Mr it.,Yes,2020-06-04
+09faa3dc-e664-427d-8cd1-a79fa001ecbe,49,Female,Cardiomyopathy,Conflicting legal terms,Clinic-B,v1.8,No,Kind hour way manage star consumer hand would travel too level where.,Yes,2024-09-16
+835c9b67-8370-495d-a7b3-8066724be85d,44,Female,Asthma,Outdated guidelines,NGO-Care,v5.0,Yes,Top couple summer skin drop medical expert evidence yeah.,No,2023-03-08
+95d05762-0ada-45c0-b85f-c28e0789df29,40,Other,Diabetes,Policy inconsistency,NGO-Care,v4.7,Yes,Whatever thank agree recognize high crime attention detail arrive stage network about.,No,2024-12-31
+ac163cbe-cc14-43c4-a4a7-5077bd4edea2,61,Female,HIV,Data sharing consent,Hospital-A,v5.4,Yes,Nothing wind may power action along ago range third gas seek.,No,2020-03-15
+77d5c4c7-5c05-4b7e-925c-7bd6a73ec5fc,73,Other,Asthma,Conflicting legal terms,Hospital-A,v4.8,Yes,Hotel mother year since wind apply case hand.,No,2020-06-18
+2538fb90-a911-4215-bd47-45638fff44c3,5,Male,Diabetes,Jurisdiction mismatch,Govt-Health,v3.3,Yes,By who never boy address why help show blood.,Yes,2022-05-30
+1a4b890f-a2f8-46d0-a8a6-d2a7317713bf,15,Other,Diabetes,Data sharing consent,Hospital-A,v1.1,No,Effort system law can crime either me.,Yes,2020-09-18
+5b665035-1538-4be9-b5e7-a88646f0817b,51,Female,Asthma,Jurisdiction mismatch,NGO-Care,v2.0,No,Strategy but finish walk certainly health word per.,No,2022-11-29
+8a8c59a4-26a1-40bb-aa1a-1cca3c5dd7ee,62,Female,HIV,Conflicting legal terms,NGO-Care,v2.2,No,Another event film throw piece simple.,Yes,2022-02-09
+d3ed3634-db9a-4e29-9404-563a0cd1215b,64,Other,HIV,Minor patient consent,NGO-Care,v5.3,Yes,Building note good computer significant suggest cut but beat education.,Yes,2023-12-10
+b3598004-2a20-447c-938c-5bdc6279ad23,52,Other,Cancer,Data sharing consent,NGO-Care,v5.2,Yes,Morning fear bill form least tell ever large cell product room smile easy.,Yes,2021-08-21
+ebbba99a-10d1-481f-b997-2aaa1198a082,17,Other,Cancer,Jurisdiction mismatch,Clinic-B,v3.6,No,Free student team available worker per respond turn defense member focus nature record.,No,2025-05-10
+adad5ad4-b4d5-4d0f-aa49-d794fd5766f3,15,Female,HIV,Minor patient consent,NGO-Care,v5.6,No,Design computer key enter new suffer ground beat people tough become enter way.,No,2022-05-29
+892f60b3-3cb5-441f-a8da-a87a77237531,69,Female,Asthma,Minor patient consent,NGO-Care,v1.2,Yes,Job stock listen window program rich from.,Yes,2021-11-01
+fd6b4b7b-5a98-4bc2-b4de-8a93f9be53ea,39,Male,Cardiomyopathy,Minor patient consent,Clinic-B,v1.8,No,Race position number personal much call benefit.,No,2022-06-30
+73912ba9-c77d-4349-bfe3-c2d6ccba717a,64,Female,Cancer,Outdated guidelines,NGO-Care,v3.0,No,Once court yourself toward bad seven partner special different on.,Yes,2022-05-20
+94179432-91b1-4597-a869-7efea602e295,46,Other,HIV,Data sharing consent,Govt-Health,v3.0,No,Turn share thank last join provide medical particular practice state everything old method.,No,2021-09-03
+500def6c-1b08-4aac-9366-b93fcbdd797e,57,Other,Hypertension,Outdated guidelines,Govt-Health,v1.3,No,Science accept he act forward line road economic past feel many administration itself.,No,2021-09-02
+6fead9ba-646a-4ecf-9156-73b038754e81,58,Other,Cancer,Data sharing consent,Govt-Health,v4.7,No,Author early follow course involve final.,No,2020-09-07
+9dea35ea-bab5-46d5-b6ca-0a4503bff8dd,78,Male,Hypertension,Outdated guidelines,Govt-Health,v5.0,No,Civil question realize mother example Democrat few among move baby.,Yes,2025-03-13
+1cfe9ab6-ef58-4adc-8eb5-a6f6220e9d73,53,Other,Cardiomyopathy,Data sharing consent,NGO-Care,v1.8,Yes,Top rise property away culture blue particularly sister.,Yes,2020-09-04
+7b6ae5fe-f3c2-423a-bb0d-b5c69695995b,89,Male,Asthma,Policy inconsistency,Hospital-A,v2.0,No,Contain picture then item important relate put picture mouth yet community great.,Yes,2020-08-25
+fe8439ad-2d60-436e-be56-076d28e539c2,84,Male,Cancer,Conflicting legal terms,Clinic-B,v1.3,Yes,Either actually protect direction our challenge raise smile above safe agreement bar.,Yes,2021-01-04
+2cafa32b-dd5c-4604-8f0a-486b2df71571,10,Female,Cancer,Outdated guidelines,Govt-Health,v5.5,Yes,Admit party time act hotel participant.,Yes,2021-04-26
+61dd2a60-bd9a-4256-a99e-45b0325d9f6d,67,Other,Diabetes,Jurisdiction mismatch,Govt-Health,v4.5,No,Painting their certain budget boy now security police.,Yes,2022-01-07
+ee40cc96-edc0-42ea-86e0-74cbc8c77be3,63,Male,Cancer,Jurisdiction mismatch,Clinic-B,v1.2,Yes,Partner specific mention attorney radio peace last message particularly.,No,2020-04-13
+4dab06f7-baac-4994-9e2b-924af3183617,86,Male,Asthma,Outdated guidelines,Clinic-B,v5.5,No,Ready marriage detail respond treat care direction however spend Congress real teacher.,No,2023-03-02
+cd40e73d-706e-4b17-879e-5ceb31b92c96,72,Other,Cardiomyopathy,Jurisdiction mismatch,Govt-Health,v3.1,No,Own step human very purpose bank our huge talk campaign behind interesting true.,Yes,2021-07-03
+db9861ff-4b34-4583-8bfc-40aa8ebffe39,26,Female,Cardiomyopathy,Jurisdiction mismatch,NGO-Care,v2.5,No,Need score force partner simply skin message value provide interview season.,Yes,2024-05-12
+afa92279-f40c-4918-9761-97abf04d6886,38,Female,Cancer,Outdated guidelines,Govt-Health,v5.3,Yes,Process always nor position this hope instead truth.,Yes,2023-11-23
+5b325e3d-8a5a-458c-9961-6a439c518947,89,Other,Asthma,Conflicting legal terms,Govt-Health,v3.3,No,Ago eight behavior near style eight mission practice.,No,2024-12-30
+cb685151-b553-415f-9caf-1896eafe6903,86,Female,Cancer,Data sharing consent,Clinic-B,v5.6,Yes,Grow year resource make throw painting day prove wait third process age.,Yes,2020-08-27
+fc99feca-3959-4a40-80e5-a9bef431c543,87,Female,Diabetes,Outdated guidelines,Hospital-A,v5.7,No,Agree pull year democratic price great.,No,2020-12-27
+c64f534a-a60a-43b4-96fb-d37750df2dc8,64,Male,HIV,Jurisdiction mismatch,Govt-Health,v4.3,Yes,Near professional current understand paper so year wish turn it behind.,Yes,2023-06-30
+315a59ef-3d9e-48d6-bf71-7795f7c43008,83,Other,Cardiomyopathy,Jurisdiction mismatch,Hospital-A,v4.5,No,Report true indicate I forward cell against energy follow world.,Yes,2025-03-08
+0fd32752-d2d5-4a5e-9112-d9720ac93805,88,Other,Diabetes,Data sharing consent,Govt-Health,v4.5,Yes,Thing skin best side seven happy.,No,2023-11-11
+fbef688b-2de8-45c7-a5f0-5c355424cba9,55,Female,HIV,Jurisdiction mismatch,Hospital-A,v3.4,No,Traditional speak tonight move can address daughter past.,No,2023-11-10
+a8fb1da7-b03a-41e0-8662-8fb3f265ccb9,49,Male,Cardiomyopathy,Policy inconsistency,Hospital-A,v1.1,Yes,Parent bag little opportunity author read walk.,No,2020-11-11
+eb7be973-d61b-49b6-b85e-2648a8cc812e,87,Female,Hypertension,Minor patient consent,NGO-Care,v4.0,Yes,Cut collection probably election under worker return treatment.,Yes,2023-12-02
+fdcb08f7-0b1e-4843-89e0-926f8eccd4de,27,Other,Diabetes,Jurisdiction mismatch,NGO-Care,v5.9,No,Piece push send guess action since market.,No,2023-03-15
+e1321013-8ffd-4bfb-8ef6-c5847c1f72d5,33,Female,Diabetes,Outdated guidelines,Govt-Health,v1.8,No,Product establish very reach wrong process.,Yes,2021-09-01
+94cbc4c0-b756-4296-80f6-793e5394e5d3,47,Other,Asthma,Policy inconsistency,Clinic-B,v2.8,Yes,Various for agency dinner down involve total difficult describe.,No,2023-05-08
+54dc3998-222c-4773-af60-3c0b399a9d68,85,Other,Hypertension,Policy inconsistency,Clinic-B,v2.4,No,Child direction him according Mrs site white station buy offer threat.,No,2020-05-08
+e02092f1-9ce7-4959-b7c3-e57ef5dc1d2c,71,Male,HIV,Conflicting legal terms,Govt-Health,v3.4,Yes,Tonight scene difference something wear here back enough.,No,2021-06-27
+9becdc39-122e-48a7-906f-6084d3914edd,41,Female,Asthma,Conflicting legal terms,Clinic-B,v3.8,Yes,Have staff white remain time five simply center executive.,Yes,2020-08-04
+2271c8e7-11f3-4fec-9f84-e76be49de626,16,Male,Cancer,Jurisdiction mismatch,Govt-Health,v3.3,No,Eat adult determine manage receive lawyer suffer team art lead hour now life.,Yes,2023-02-08
+0c5fe1fc-13e7-4b0a-ba34-9d83c16e18f5,88,Male,Asthma,Policy inconsistency,Clinic-B,v1.4,No,Show enjoy prepare health themselves stock whatever miss best.,Yes,2025-09-15
+7a5ab4ae-f39b-47a7-b2f5-95e9a0e84520,67,Female,Hypertension,Policy inconsistency,NGO-Care,v3.6,Yes,Between notice data computer end live too possible state claim loss family.,No,2022-10-16
+7e64925e-e192-4b66-81e9-080877f10b3a,8,Female,Asthma,Minor patient consent,Hospital-A,v2.2,Yes,Himself important easy remember reduce never work opportunity chance.,Yes,2021-10-05
+9eb854c9-a7d1-4d7a-ad6b-9ed913bc06a4,80,Female,Asthma,Data sharing consent,Clinic-B,v3.2,No,Toward page pressure suffer everybody suggest story whether white hand.,Yes,2020-05-10
+9ac9aae2-701f-4128-8497-d1bffa2fce26,39,Male,Diabetes,Minor patient consent,NGO-Care,v2.4,Yes,Talk series parent guess western person run daughter Congress new relationship.,No,2024-01-30
+a8c85a46-f9de-4579-87ff-514298d75c7b,78,Other,HIV,Jurisdiction mismatch,Govt-Health,v1.4,Yes,Bed rich government effort age continue scene gun open rather organization.,No,2021-08-19
+b2db13ef-4542-4950-a190-6e55e0da1aa5,38,Other,HIV,Minor patient consent,NGO-Care,v4.0,No,History field reason enter executive civil home task.,Yes,2025-02-27
+8aae0d84-25f5-473b-9e5c-146e8615d9fc,14,Male,Diabetes,Minor patient consent,Hospital-A,v5.4,Yes,Adult toward left show mouth within right agree style buy various commercial.,No,2020-01-30
+7116f84c-ccf9-4c20-a2c0-be21695b4331,20,Female,Cardiomyopathy,Data sharing consent,Govt-Health,v3.6,Yes,Off movie those despite beat house fund recognize cell.,No,2020-09-19
+5354302d-1585-4c07-9d05-19766d8db777,16,Female,Cardiomyopathy,Policy inconsistency,NGO-Care,v4.5,Yes,Per song artist official if want physical certainly late that play current task.,No,2025-01-09
+68b6e488-2257-4236-a712-82eedb625612,69,Other,Asthma,Conflicting legal terms,NGO-Care,v3.3,No,Would increase buy serve record material.,Yes,2024-05-15
+d342edf4-69b0-4b5c-9bd3-846a5d84736b,84,Female,Asthma,Jurisdiction mismatch,NGO-Care,v2.3,Yes,Social hospital happen about small training meeting leader strategy budget.,No,2020-01-20
+f7aed9a6-a552-4d21-8904-da92cf31a133,20,Female,HIV,Minor patient consent,Govt-Health,v2.1,Yes,Smile computer somebody bit really challenge.,No,2023-07-30
+6f21cef5-92e5-4b98-9864-38b013301f6d,27,Female,Asthma,Policy inconsistency,Hospital-A,v1.4,Yes,Well know argue real respond couple door get again.,Yes,2021-01-17
+aca083d7-e7b5-4e83-9790-4951f1b8f294,84,Other,Cardiomyopathy,Policy inconsistency,Hospital-A,v2.3,No,Fall investment rise end ten garden when throw finally stuff rise us Mr east.,No,2025-03-17
+76ea7008-c636-4fce-a241-a72acd07ab6e,24,Female,HIV,Policy inconsistency,Govt-Health,v5.5,No,While player particularly she talk six.,No,2025-07-27
+21430547-5e2a-4d96-8e72-14fdc4ea60cd,43,Other,Hypertension,Conflicting legal terms,Hospital-A,v4.8,No,Pick maybe newspaper tax wind administration impact huge later.,Yes,2024-09-21
+1f2e3257-0b77-415c-b9da-20c535748379,75,Female,Cardiomyopathy,Policy inconsistency,Hospital-A,v4.1,Yes,Summer me simple their provide side cut language call scene energy doctor already.,No,2023-08-17
+73ffbab6-e42f-4aab-80c2-5844ecabb637,14,Other,Cancer,Policy inconsistency,Clinic-B,v2.7,No,Protect economy share first parent kind fear material citizen near story.,No,2021-01-29
+754cc3af-3568-4ebb-98cb-73613c6020a6,45,Female,Hypertension,Policy inconsistency,Govt-Health,v3.6,Yes,Visit west clearly manager bill environment sit shake finally exist.,Yes,2025-01-02
+48a1cf0f-3982-464d-9a6b-5d0ec8920e98,70,Female,Hypertension,Policy inconsistency,Hospital-A,v1.2,No,Environmental take into show man represent energy section analysis black.,No,2020-06-22
+944a372d-d730-40d0-a45e-0835e73b9448,51,Male,Cancer,Conflicting legal terms,Govt-Health,v5.0,No,Seem yeah in day image walk exist.,No,2024-01-21
+ef0c60ef-a298-47ad-8cce-c6f0965bbbce,80,Other,Cardiomyopathy,Data sharing consent,Hospital-A,v4.3,Yes,Special agreement evidence for represent class quality move budget.,Yes,2022-01-12
+c653b450-98f9-4a47-a4a6-00472ba77248,67,Other,HIV,Jurisdiction mismatch,Clinic-B,v2.1,No,Door continue local off today hard anything safe.,No,2020-06-08
+652a52cb-c0d5-4077-98ea-092c66cdaf7b,26,Other,Cardiomyopathy,Policy inconsistency,Hospital-A,v2.5,No,Another need article theory take main surface cover relationship.,No,2020-02-22
+6ebc06b3-8ff8-44c0-8203-5ea234a3b314,85,Female,Diabetes,Data sharing consent,Hospital-A,v1.7,No,Color perform federal even really again employee score sound upon movement class security.,No,2021-09-09
+ed82787d-ddc1-44a3-a546-d1c7b074229d,7,Other,Cardiomyopathy,Policy inconsistency,NGO-Care,v1.7,Yes,Speech trouble service other expect season wide upon.,No,2024-05-20
+677271f8-eb50-4f5c-8d06-1e2e88c4731f,6,Other,Hypertension,Data sharing consent,Clinic-B,v3.8,No,Sign glass according huge few perhaps compare.,No,2023-08-28
+3b0534fe-9133-4899-9976-9128dd4558f0,89,Female,Diabetes,Outdated guidelines,Hospital-A,v2.2,No,Drive couple forward Mrs perform budget leave example heavy call.,No,2021-06-15
+34950a1b-ccfb-4870-a57a-4514946cb2fa,11,Other,Diabetes,Policy inconsistency,NGO-Care,v1.4,No,Human week important smile speech buy early for against Mr.,Yes,2020-12-19
+e861490b-3012-4654-9968-09f85f42d8f8,75,Other,HIV,Policy inconsistency,Govt-Health,v3.2,No,Wind lay research action catch understand state seem check.,Yes,2023-06-21
+4bad8186-08cc-4572-b330-6172ff923f24,55,Male,HIV,Policy inconsistency,Hospital-A,v2.4,No,Own room part far long light party article.,No,2023-07-29
+1ef8d513-4a21-4b67-9056-3957dc6fe9e1,89,Other,Asthma,Conflicting legal terms,Hospital-A,v4.7,Yes,Some send yet car night section most.,No,2024-06-11
+1b7b96fb-86ba-4b56-990e-b4a4122bbb58,22,Female,Hypertension,Conflicting legal terms,Govt-Health,v2.0,Yes,Write whose individual ever before because mouth place computer sea weight through.,Yes,2020-01-06
+c83d8b59-2aea-4899-b99b-2824a7808cc5,23,Female,Asthma,Minor patient consent,Clinic-B,v2.6,Yes,Message again particularly sort fine chance article network about against charge.,No,2025-01-27
+26842b93-526c-4b91-8bc5-92ddd93eb334,80,Other,Cardiomyopathy,Minor patient consent,NGO-Care,v4.9,No,Heart that citizen expect huge we become animal here likely.,Yes,2021-11-26
+d55570ff-cba4-4e95-baff-fa96c2d875f9,36,Other,Asthma,Conflicting legal terms,Clinic-B,v5.0,No,Audience able into next before including old tree cause Mrs change behind.,No,2025-07-15
+6c9bfd90-89a7-421a-a60a-0dd98e027f68,54,Female,Cardiomyopathy,Data sharing consent,Clinic-B,v2.2,Yes,Society both often tend person hot science hospital unit.,No,2021-04-17
+5af7980c-6ef0-4b2e-90b7-e8d35943c8e4,29,Female,Asthma,Jurisdiction mismatch,Clinic-B,v5.3,Yes,Book avoid risk quality responsibility page fish direction return these direction team remain note.,No,2022-12-04
+92a67859-613f-43f2-97cd-fad899cb4654,45,Other,Asthma,Minor patient consent,NGO-Care,v5.7,No,Appear act staff east easy staff build reduce analysis.,No,2022-06-26
+8c7cf57b-1522-473e-98c7-7561c7a9d5a7,22,Male,Cancer,Policy inconsistency,Hospital-A,v2.9,Yes,Owner trouble politics back benefit home store campaign significant Congress board.,Yes,2020-12-16
+16bd75ba-c8f9-4c72-8564-a42c6d982e67,70,Male,HIV,Conflicting legal terms,NGO-Care,v4.7,Yes,Change could consider actually skill about writer current popular store pattern drop.,No,2025-01-20
+91c92577-8da1-4d00-91cc-140ed99e39d0,70,Male,Hypertension,Policy inconsistency,NGO-Care,v2.7,No,Everyone week compare theory day realize address husband say teach.,Yes,2025-03-31
+cbee9bba-81e0-44dc-8bbc-c7555847ac63,40,Male,Cancer,Outdated guidelines,Hospital-A,v1.9,No,Evening threat base pick tree live nation.,Yes,2022-07-31
+7c9c532f-9f10-49d7-9b2e-e64472a8fdd6,82,Female,HIV,Conflicting legal terms,NGO-Care,v2.9,Yes,Father start he rest wide commercial.,No,2024-10-22
+437a5648-c3ef-4c61-a400-0c09441c1a8a,65,Male,Asthma,Policy inconsistency,Govt-Health,v2.8,Yes,Sort wait western establish level cell surface respond above.,Yes,2020-11-10
+9af9d500-a4c5-487e-877e-023b08d955a5,18,Other,HIV,Minor patient consent,Govt-Health,v5.3,No,Million wrong mind country challenge cut worry.,Yes,2025-03-05
+36157ce2-b2e3-46c5-baa7-c2819295dfac,85,Other,Diabetes,Conflicting legal terms,Govt-Health,v5.3,No,Practice its sound watch no care song sense still medical beat never.,No,2025-09-03
+0325b124-6d6a-48f9-ab1e-4abf2a3cfdeb,27,Other,Cancer,Minor patient consent,Govt-Health,v4.2,No,Wife why television keep operation head.,No,2023-09-27
+aff75b0b-a70c-4e19-89d9-829b799073c1,87,Male,Cancer,Conflicting legal terms,Hospital-A,v4.9,No,East standard five specific campaign example interesting beat treat culture seat.,Yes,2025-01-03
+aa7de8c9-afdc-4736-bf45-c51ae4019139,65,Male,Asthma,Outdated guidelines,Clinic-B,v3.8,Yes,Pattern news design someone heavy too.,No,2025-04-21
+4e76ee46-a595-4e9b-bf64-721b1a571009,45,Female,HIV,Minor patient consent,Clinic-B,v3.9,Yes,Finally nice onto party focus establish head school price difficult ball.,Yes,2023-07-05
+e132e96f-afe7-4078-bd47-5663ff07ae27,16,Female,Cancer,Minor patient consent,Hospital-A,v2.4,No,So window low lawyer hear energy think democratic difference.,No,2021-03-01
+5a0ca28a-61c9-4952-9ed0-19b70f27328d,86,Other,Cancer,Policy inconsistency,Govt-Health,v4.2,Yes,Memory remain movement their suddenly region effort happen play.,No,2021-03-16
+f684c839-9d28-402e-946c-10293530264d,42,Male,HIV,Jurisdiction mismatch,Hospital-A,v3.8,Yes,Everything politics second work marriage population but heavy suggest hard mother.,No,2023-04-05
+6909dc6a-f06f-4789-8c02-952101e42823,61,Other,Hypertension,Outdated guidelines,Clinic-B,v4.6,Yes,News husband its radio style camera.,Yes,2025-03-17
+204f6d4b-4174-479a-8456-d61ffafd095b,77,Female,Cardiomyopathy,Data sharing consent,Clinic-B,v1.1,No,Student sound lead become provide physical need act.,Yes,2021-09-20
+7c9ead78-2f3c-4d88-8c8e-b71721ce4719,45,Male,Diabetes,Jurisdiction mismatch,Govt-Health,v3.5,Yes,Book argue more note statement fly truth ten ability many similar believe.,Yes,2023-11-07
+730282ec-e2e0-4a4c-9e0e-2de5457e2098,58,Other,HIV,Jurisdiction mismatch,NGO-Care,v4.5,Yes,Move reveal painting car my after town.,Yes,2023-11-25
+cade6a09-0299-4aff-b789-89016225baef,78,Other,Cardiomyopathy,Policy inconsistency,Clinic-B,v1.9,Yes,Drive edge investment not direction reality scene.,Yes,2024-08-15
+ff7cb7f0-718f-474d-8d81-398ad46347ea,8,Male,Cardiomyopathy,Data sharing consent,NGO-Care,v2.4,Yes,Son common approach child history store whose fire speech thousand teach.,No,2021-01-09
+1ed3be92-198b-4565-bea5-439ca80d50ac,83,Female,Asthma,Policy inconsistency,NGO-Care,v2.7,Yes,Word get two support television easy bit million wife save.,Yes,2023-11-21
+4a1c7cc4-3fd4-43c1-a97c-5e19ac0bf7c9,48,Other,Diabetes,Jurisdiction mismatch,Clinic-B,v4.4,Yes,Billion movement quickly child culture suddenly suffer dark interview reflect wonder age want.,No,2022-01-24
+3a278f98-7fb8-401c-9637-fccff7789da6,72,Female,Cancer,Minor patient consent,Govt-Health,v5.7,Yes,Door glass design respond brother training pattern decision outside decade key anything.,Yes,2025-07-27
+10d2a46b-d98a-480e-930c-f3137163213b,27,Female,Hypertension,Conflicting legal terms,Govt-Health,v5.0,No,Ok great ready head great religious mind modern maybe.,No,2021-11-20
+630e8b40-b699-4a09-83a9-5338a10c3cae,19,Male,Asthma,Conflicting legal terms,NGO-Care,v2.7,No,Wide prepare reflect war every field physical.,Yes,2024-02-22
+1bc1a4de-53f6-4847-8238-a37d9ebb4809,82,Male,Asthma,Minor patient consent,Clinic-B,v3.9,No,Should across drop else here side range race area yeah tree.,Yes,2024-11-29
+a7c4339d-e607-404d-91cb-507dd7b0c653,23,Other,Asthma,Outdated guidelines,Clinic-B,v4.2,Yes,Decide course until color become then PM if discover.,Yes,2022-10-17
+c80eb901-5d9d-4407-b759-2a64ce3ec4dd,16,Male,HIV,Policy inconsistency,Hospital-A,v5.1,Yes,Protect subject just interview give available yeah training authority get spring store food pressure.,No,2024-02-28
+e9f6d7d4-0f8f-4726-b62e-521817854cbc,5,Male,Asthma,Policy inconsistency,Clinic-B,v4.3,No,Son live fish else half eight international.,Yes,2025-01-14
+55052ccf-51dd-496e-b0a1-3431b09b9701,52,Male,HIV,Jurisdiction mismatch,Govt-Health,v5.4,Yes,Car outside poor person reach little start teacher day environment check pay.,Yes,2020-09-30
+0d91dca3-6721-47b5-a0de-a28c3f351d03,57,Female,Asthma,Jurisdiction mismatch,Hospital-A,v2.1,Yes,True walk behind room partner information sign soon skill.,Yes,2020-05-25
+c69ad7ac-75e1-4ed1-9b85-4b10967720c9,72,Female,HIV,Jurisdiction mismatch,Clinic-B,v5.7,Yes,Difference stock quality generation write area most should evidence.,No,2023-02-24
+3089a812-679a-4846-8bc1-0672042c2182,10,Male,Cardiomyopathy,Policy inconsistency,NGO-Care,v2.8,No,Much bring total particularly guy hot peace.,No,2020-07-02
+a4a43a7e-9889-4d62-86f5-c070623c43d6,31,Male,Diabetes,Outdated guidelines,Clinic-B,v2.4,Yes,To east throughout admit foreign them clear attack rather edge system our.,No,2023-10-11
+3ebd0da5-c666-432c-ac77-3bbc54a30d58,36,Other,Cardiomyopathy,Conflicting legal terms,Hospital-A,v3.5,Yes,Information summer then every off trial these hospital Congress half.,No,2022-11-22
+decc4139-3c10-4daf-b603-279911705473,77,Other,HIV,Jurisdiction mismatch,Hospital-A,v2.5,No,For increase scientist technology call citizen particular open figure later performance beyond.,No,2023-01-25
+09bd28a5-5597-42be-b580-1bc822a80466,27,Other,Asthma,Outdated guidelines,Govt-Health,v3.3,No,Ready director all travel among benefit explain total join enter left community matter.,No,2023-02-12
+67124d18-5526-4c75-8c24-4170ec23ca99,29,Male,Hypertension,Minor patient consent,NGO-Care,v3.3,Yes,Option prepare know represent scientist option.,No,2024-08-20
+be0d73d9-b010-4462-8315-516a73bc53e5,39,Other,Diabetes,Jurisdiction mismatch,Clinic-B,v4.6,Yes,Trial range when forget pass myself international across bed.,No,2025-02-04
+09c321d2-301b-49d4-8367-1f65a238c654,38,Male,Hypertension,Policy inconsistency,NGO-Care,v3.5,Yes,Drug economy operation take spring moment military recognize high mother turn.,Yes,2021-08-02
+eb9030d7-e84b-4f8d-a580-8dd65dcbc5d4,29,Female,Asthma,Policy inconsistency,Govt-Health,v5.9,Yes,Hand grow human fire resource natural.,Yes,2023-11-30
+29284085-c870-41e7-81de-bfae9130e733,48,Male,Hypertension,Conflicting legal terms,Clinic-B,v4.3,Yes,Responsibility another this season art movie purpose.,Yes,2025-05-25
+3d29f6f4-9eb7-4537-b264-e75f65972e8f,73,Other,Asthma,Jurisdiction mismatch,Govt-Health,v4.4,No,Force use name up worker character may few drop direction check nearly.,Yes,2021-06-24
+ec95c173-e7f3-4e2f-ac94-170cdc633884,52,Other,Asthma,Minor patient consent,NGO-Care,v5.6,No,Foot drive impact return small treatment value animal agree win interest.,Yes,2025-05-08
+a5685d9f-1c0a-450a-a7bf-3af2a55c6816,78,Female,HIV,Minor patient consent,NGO-Care,v5.0,Yes,Reveal issue share article drop majority model also on.,No,2022-12-26
+677e80fd-47a4-4c0b-92d8-ce2b3aaf508c,13,Female,Asthma,Minor patient consent,Clinic-B,v1.5,Yes,Start ten weight sometimes ahead four imagine what.,Yes,2025-01-04
+5558d63f-c3fb-4931-a3f6-db73c694361b,51,Female,Cardiomyopathy,Outdated guidelines,NGO-Care,v5.5,No,Say spring late after position near hard hope particular impact.,Yes,2024-08-19
+1f00bcce-8040-4c22-b258-cfc19414be61,11,Female,Hypertension,Outdated guidelines,Clinic-B,v5.9,No,Notice seek effort up light degree direction here fill keep officer college.,Yes,2021-03-21
+76835386-e6c2-4516-b904-6cb114a29b6d,28,Female,Asthma,Minor patient consent,NGO-Care,v5.3,Yes,Notice knowledge kid believe garden inside.,Yes,2022-05-06
+8b9d2be6-ce58-44f9-a4c9-a6b539619dca,52,Male,HIV,Conflicting legal terms,NGO-Care,v1.6,Yes,Perhaps very air reach before pick.,No,2024-04-18
+18215788-2f5a-4c85-a590-9e4d2f54abe9,86,Male,Cancer,Minor patient consent,Clinic-B,v2.8,Yes,Site organization town sit church important owner join.,No,2020-08-22
+023247fa-c351-41ba-827a-9ebc8df80067,5,Male,Hypertension,Data sharing consent,Clinic-B,v5.1,No,Office increase indeed alone deep per south care suffer seek for.,No,2022-06-04
+546d25eb-559b-4fdf-939b-bb8057b59042,84,Other,Cancer,Conflicting legal terms,Clinic-B,v4.3,Yes,Respond across he person add focus ball.,Yes,2024-05-07
+d8833727-7f51-4a1e-ae5d-7d1a2ef4a2ff,60,Male,Hypertension,Jurisdiction mismatch,Clinic-B,v3.9,No,Kind treat fire everyone price list organization young itself administration.,Yes,2025-09-10
+4091564c-8741-4d1d-ad7b-3d6903608807,11,Other,Hypertension,Outdated guidelines,Clinic-B,v3.1,Yes,Help education represent exist clear movement building human interest especially loss director.,Yes,2021-07-10
+2b126737-239b-4f19-a1bb-e07b7c7cd04d,33,Other,HIV,Data sharing consent,Govt-Health,v4.9,No,Relate hair season kid marriage because pass effort foot worker.,Yes,2020-11-23
+9c106f33-e1a9-4832-9536-68b261b238f4,68,Other,Cardiomyopathy,Outdated guidelines,Clinic-B,v5.4,No,Project miss last again whatever music measure knowledge.,No,2025-05-31
+524a66b1-d7a0-45d4-a17a-dc192111e3fc,44,Other,Hypertension,Data sharing consent,NGO-Care,v1.4,Yes,Color something week heart stand inside table.,No,2021-10-02
+0e38ca8a-d9c2-4cb6-9193-f3bf5f3c6571,16,Other,Cardiomyopathy,Policy inconsistency,Govt-Health,v3.6,Yes,Support in agent paper picture throughout take another capital may major.,Yes,2021-10-11
+cbba364a-2329-4ed4-99c2-63b137e62b47,16,Other,Cardiomyopathy,Policy inconsistency,Clinic-B,v2.1,No,Prepare program nearly near end action light.,No,2020-11-13
+274a2a1f-7ff8-4adc-a12e-4c8ae7756a4d,59,Other,HIV,Conflicting legal terms,Clinic-B,v2.6,No,Onto half himself Mrs protect down mention information former.,Yes,2022-12-21
+5f59ab80-8018-4074-9f49-8b9c13d15697,35,Male,HIV,Policy inconsistency,Hospital-A,v4.7,No,Whatever since bank include west military television dream character whom at become than.,No,2024-07-07
+e36278b0-6d8f-4313-b53e-459bd5c761b9,67,Female,Diabetes,Policy inconsistency,Govt-Health,v3.1,Yes,Knowledge authority eight economic system weight.,Yes,2023-07-08
+4c3a30f6-406a-4e12-af60-7a83c769fec5,85,Female,Cancer,Minor patient consent,Govt-Health,v5.8,No,Lose eat crime subject what car will on.,Yes,2020-06-23
+c8b0275a-f051-4d24-bdc0-61b6fff66eb2,40,Female,Cancer,Outdated guidelines,Hospital-A,v4.7,Yes,Doctor air cause order do watch popular democratic address.,No,2020-09-04
+8332ecf7-bc9a-4f69-b0c7-33fe2420ad1e,11,Other,Diabetes,Minor patient consent,Govt-Health,v2.1,Yes,Line long role somebody window history son make.,Yes,2020-06-06
+2cd07566-08c6-4e41-bc14-f1eb4e23dcd0,8,Other,Asthma,Conflicting legal terms,NGO-Care,v4.5,No,Member finish skin write modern decade child senior far stand.,No,2022-03-06
+445ea524-14d9-40de-9eda-3d683bf8f89d,90,Male,Cardiomyopathy,Policy inconsistency,Clinic-B,v3.4,No,Happen available example just huge put check box pattern represent.,Yes,2022-09-28
+7b5619d2-a322-4fec-ade8-fd19fd178373,85,Female,Asthma,Minor patient consent,NGO-Care,v5.7,No,My expert then will wrong certainly number.,Yes,2024-08-22
+c6a843bd-239c-41f5-9093-f1f71b8f6cb8,52,Female,HIV,Conflicting legal terms,Govt-Health,v1.4,Yes,Most check recently knowledge child strategy set any.,Yes,2021-04-23
+c21c551c-21ba-4ae6-8c15-7cc4f976b534,15,Male,Asthma,Jurisdiction mismatch,Hospital-A,v5.0,No,City sense suffer important agree different.,No,2020-11-08
+13ba8a34-4652-41cc-8b54-af2d47e30358,58,Male,Hypertension,Jurisdiction mismatch,NGO-Care,v2.3,Yes,Water arrive magazine movement will subject art thousand send bag.,No,2022-06-12
+cbb408a6-4d26-47e6-8ee3-30233a654471,37,Female,Cancer,Jurisdiction mismatch,NGO-Care,v1.8,No,Son tell record way big purpose people describe camera play less.,Yes,2020-05-16
+3440e8a0-4647-4e40-8410-669cdbc71881,14,Female,Diabetes,Jurisdiction mismatch,NGO-Care,v4.8,Yes,Large live anything right light indeed instead behavior expert west experience almost.,No,2023-12-03
+082b808c-afce-4286-a987-57d959b228d8,14,Other,Cardiomyopathy,Conflicting legal terms,Hospital-A,v1.3,No,Never three third I while discuss.,Yes,2023-10-06
+5d0cf3eb-92b7-4595-9c1c-b4f1f01b316d,55,Female,Asthma,Conflicting legal terms,Govt-Health,v5.0,No,Within think including fly no represent condition.,Yes,2020-09-13
+70386392-e822-4c8a-a851-e1ce36306bec,28,Other,HIV,Jurisdiction mismatch,Hospital-A,v2.9,Yes,Director certainly couple dark across deep not keep significant learn newspaper.,No,2020-06-20
+71b392f5-7262-402e-b525-781deb0759ba,69,Other,Diabetes,Policy inconsistency,Clinic-B,v2.4,Yes,Indicate happy answer only result term often require.,Yes,2020-09-23
+ff7ca0ce-4ae1-418d-b3cf-ff331eceeda0,67,Female,Cardiomyopathy,Outdated guidelines,NGO-Care,v4.0,Yes,School debate soon detail property discuss tough long.,Yes,2022-03-08
+757f24e5-0c1f-4468-a42a-5ef0e98de92a,7,Female,HIV,Minor patient consent,Govt-Health,v2.2,No,At evening will issue tax memory small thing.,Yes,2023-10-29
+2f3e4fe4-aeb9-44a1-8073-fc02141e5478,74,Other,Cardiomyopathy,Policy inconsistency,Hospital-A,v3.6,Yes,Begin government almost range office skill next professional reveal get appear water ten.,Yes,2021-12-25
+c2694759-a0f9-4ad7-b2b0-54be64d4c23f,81,Other,Hypertension,Conflicting legal terms,Hospital-A,v5.3,Yes,Increase dog get career wind either.,Yes,2022-09-29
+bf8fc7eb-51f0-4553-86c5-e82026e832f4,79,Other,Hypertension,Policy inconsistency,NGO-Care,v5.0,No,Necessary political authority threat speak word table fish fly well charge.,No,2022-06-05
+767396b7-9368-44ac-8d0b-a4726a74cf49,18,Male,Asthma,Jurisdiction mismatch,NGO-Care,v2.2,Yes,Human seek long camera himself serve camera body book.,Yes,2025-01-26
+4c501302-bc0a-4080-9bd9-aa3fbb0eb782,21,Male,Hypertension,Policy inconsistency,Hospital-A,v2.2,Yes,Over class who rich financial lead lot job state popular still explain board.,Yes,2020-03-09
+c6284c5f-e84b-4e08-b93c-251def9bd340,73,Female,Hypertension,Conflicting legal terms,Hospital-A,v3.3,No,Program color it community pretty building our teacher throughout of enter.,Yes,2025-01-23
+64a0712f-7357-440a-8f7c-794f7dd0699c,13,Other,Hypertension,Minor patient consent,Hospital-A,v3.6,No,Idea school Democrat dark scientist morning look not.,No,2020-07-31
+2f0d92d5-bd3d-4bba-a0f3-187466cb1225,59,Female,Asthma,Policy inconsistency,NGO-Care,v2.2,Yes,Body street work education world born foot this American.,No,2022-06-26
+ede03e55-68ff-476e-b99b-849a2cd58ec9,17,Male,Asthma,Minor patient consent,Clinic-B,v2.3,No,Discussion name of against evidence situation interesting their population.,Yes,2020-08-05
+3eae58c8-4f0c-4048-9f27-064a0dd13907,60,Other,Asthma,Policy inconsistency,NGO-Care,v4.5,No,Three rate contain few assume card country likely garden break.,Yes,2021-07-21
+a9ad8c86-2682-4ad3-9fa2-1cc6ad401048,49,Other,HIV,Policy inconsistency,NGO-Care,v5.0,Yes,Marriage think century fall end relate now lead campaign lay son decision.,No,2025-03-13
+a46bd577-be68-4504-b2c5-62c076adc83c,68,Male,Cancer,Conflicting legal terms,Clinic-B,v4.1,No,Movement fact between general same produce page father.,Yes,2023-07-20
+835d4dac-be16-4aa3-b90d-42096aa37469,7,Male,Diabetes,Jurisdiction mismatch,Govt-Health,v5.2,No,Final watch including material still season wait rock question must.,No,2023-06-13
+adf30e40-eb81-42d3-a492-f360dbfadfb7,50,Other,Diabetes,Jurisdiction mismatch,NGO-Care,v3.0,Yes,Inside be expect red professor her.,No,2022-11-05
+c2723b0c-0e86-469d-bc54-bdbc27477a10,12,Male,Diabetes,Conflicting legal terms,Govt-Health,v3.7,Yes,Every in left character these specific money value thing bring present site.,No,2022-04-10
+a70eddaa-fdc7-4193-ab4c-05ca0505ac9e,5,Female,Cardiomyopathy,Jurisdiction mismatch,Govt-Health,v1.1,Yes,Total theory company system laugh gas real.,No,2020-12-28
+adc29037-3937-4401-9a90-d4d695be00e7,36,Other,Hypertension,Jurisdiction mismatch,Clinic-B,v2.4,Yes,Evening cell center us scene like foot treatment.,Yes,2025-09-08
+e7363cf6-f813-455a-a5c6-6b86c704148b,44,Male,Asthma,Outdated guidelines,NGO-Care,v5.3,Yes,Rock scene meet reason impact reason court realize.,No,2020-07-12
+9b6ce3f3-9a49-429f-876b-1542d3b02f5c,83,Male,Cancer,Conflicting legal terms,Govt-Health,v3.3,No,Space fish table never since in include accept themselves.,Yes,2025-02-20
+2cdce50d-d32b-448b-8f8a-dd49c28e33bc,53,Male,Asthma,Minor patient consent,Govt-Health,v4.1,No,Have sister rich significant capital fund nice current effort.,No,2024-10-22
+920a3866-840f-4f0e-90a5-0a6bc5f7f95e,77,Female,Hypertension,Policy inconsistency,Hospital-A,v5.4,Yes,Control away blood chance medical agree dinner reveal authority back model.,Yes,2024-07-03
+7b94da56-a53f-49ea-abe6-8f4f19704c3b,39,Female,Cardiomyopathy,Policy inconsistency,NGO-Care,v3.7,Yes,Magazine seek race step technology face environmental Republican benefit sense standard suddenly important.,No,2025-01-20
+9e0a4009-7bfe-4242-95af-0a2f351ce846,45,Male,Cancer,Outdated guidelines,Clinic-B,v2.0,No,Beautiful design care relationship house smile.,Yes,2022-10-12
+26fa0231-3639-4301-9023-e924d1056b31,75,Male,Diabetes,Policy inconsistency,Govt-Health,v3.7,Yes,Watch require threat miss social impact fund entire remember apply.,Yes,2024-06-30
+2cea3b05-f05d-426c-9b8e-45c07f7cc276,44,Male,Cardiomyopathy,Minor patient consent,Clinic-B,v1.5,No,Image subject event money its city player throughout let spend recently check per image.,Yes,2024-05-08
+d69249ce-42a4-41f6-bbe1-9ae9a8d23f10,11,Male,HIV,Minor patient consent,Govt-Health,v2.8,Yes,Season impact approach everyone consider window house history behind.,Yes,2021-04-22
+7e11d368-9c59-4376-a997-028d4135f267,29,Male,Diabetes,Data sharing consent,Govt-Health,v5.8,No,Protect trip resource represent choice age treat head.,No,2023-03-15
+2af8d890-47e6-4e8d-8403-69f79be59f5e,58,Other,Diabetes,Conflicting legal terms,Hospital-A,v5.0,Yes,Certain eye information court paper newspaper reach use reduce into team value that.,No,2020-04-06
+54c7e929-bb84-448e-b08a-9820ddbab427,14,Other,HIV,Data sharing consent,NGO-Care,v4.4,No,Individual season world soldier arm do notice look market simple.,Yes,2023-10-03
+dc437cde-34e7-4b8d-ab17-4f0c20c4abb8,59,Other,Cancer,Minor patient consent,Hospital-A,v3.8,No,Television cause worker memory power mouth green.,No,2025-03-27
+0a7f7391-08d5-44d6-ada7-15bae441eb7f,22,Male,Cardiomyopathy,Data sharing consent,Clinic-B,v4.9,Yes,Option daughter glass PM serious reality professor born structure.,No,2022-07-03
+d1ae77f4-e282-483e-81af-139eb8a0bc5c,90,Male,Cancer,Policy inconsistency,Hospital-A,v4.8,Yes,Mean pattern before by my two international something.,No,2025-08-12
+e2f117a0-7934-4feb-b713-c86799df5a91,13,Female,Asthma,Outdated guidelines,Hospital-A,v2.1,No,Hold reason necessary dark customer people training cut loss.,Yes,2024-02-14
+fac17d2c-e032-4096-8bf0-a762222bf28e,11,Female,Asthma,Data sharing consent,Hospital-A,v2.8,Yes,Break front remember already break exist.,Yes,2020-06-03
+463e2329-b2c4-4175-bf98-1f530316cc56,69,Male,Hypertension,Conflicting legal terms,Hospital-A,v5.0,No,Training parent agent keep actually score.,No,2020-04-20
+43232622-b4a8-4ad0-ba6b-c53b2da829b8,80,Female,Diabetes,Policy inconsistency,NGO-Care,v5.1,Yes,Note officer any trial bank war address attorney unit data explain change trouble.,Yes,2024-03-05
+6ed87038-d6ce-4a40-8f47-6e460ddd6005,17,Male,Diabetes,Data sharing consent,Clinic-B,v3.7,Yes,Blood here like up rather point various reality weight society.,Yes,2022-06-03
+d87b43dc-0847-4db3-86af-8a25d9d4eb1c,63,Male,Cancer,Policy inconsistency,NGO-Care,v2.3,Yes,Capital week activity small in situation.,No,2022-11-15
+e0159d60-c4f2-4b91-885a-25fee6335980,77,Female,Asthma,Outdated guidelines,Clinic-B,v1.5,No,Everyone hope they section positive piece development few computer.,Yes,2024-05-24
+3a4b6221-8cc4-4cc4-adc4-2ae0c02d19ea,29,Female,HIV,Policy inconsistency,Clinic-B,v3.2,No,Particularly allow issue color foot write.,No,2020-12-20
+09bd062d-c37d-4dc4-a977-1068d91bf31d,59,Male,Hypertension,Conflicting legal terms,Hospital-A,v3.9,No,Artist power add special campaign grow to body care drug company billion.,Yes,2020-08-31
+83481715-6b6d-4edc-9c3a-c6acb0d148cb,35,Female,Asthma,Minor patient consent,Hospital-A,v4.8,No,Small show yeah final write population three play.,Yes,2025-04-30
+329e041b-6ec3-4c72-ac1f-72bc3a088e05,10,Male,Hypertension,Conflicting legal terms,Govt-Health,v1.5,No,Mrs teacher eye son sport defense heart.,Yes,2025-04-13
+2554d456-bf58-4cd6-b7fe-9cb36070de8e,8,Female,Diabetes,Outdated guidelines,Clinic-B,v2.5,No,Large better knowledge role product deep campaign edge.,Yes,2020-02-09
+ed40497d-7337-43ba-93fb-554b4feeb6dc,7,Female,Cancer,Data sharing consent,Govt-Health,v3.3,No,Score house region few condition fast tax first week fill green stand production.,Yes,2021-09-01
+cf4a85c6-0529-493b-b726-de435ed7890c,20,Female,Cardiomyopathy,Jurisdiction mismatch,Govt-Health,v3.1,No,Everybody quickly region happen hand big next minute ok physical.,Yes,2021-03-01
+1632d8d1-9db8-4d5a-9cd3-50290548a066,51,Female,HIV,Conflicting legal terms,NGO-Care,v5.1,Yes,Else might reveal level structure organization ten response.,No,2025-05-11
+4b1e0cfa-fdb0-4054-8554-49e2d636d797,6,Male,Cancer,Policy inconsistency,Hospital-A,v4.6,No,Financial religious by piece experience also street single skin term foot.,Yes,2023-01-05
+9e550179-ca81-441f-9370-edcadccafb73,17,Male,Cardiomyopathy,Data sharing consent,Govt-Health,v4.7,No,Drive project much scene these manager weight economic Mr.,Yes,2022-02-28
+974c8d96-9b5a-44dd-8015-369201065200,75,Female,Cardiomyopathy,Outdated guidelines,Clinic-B,v1.7,No,Coach effort play mean recognize head return Republican standard local.,No,2021-07-09
+ecc5de5c-6506-4d6f-9e92-609ac2b1c35d,74,Male,HIV,Minor patient consent,Hospital-A,v5.3,No,Argue any individual best left stay seven for side stop boy need.,Yes,2025-05-08
+e6ab1393-9f6e-479f-a945-504f4326ac39,5,Female,Asthma,Jurisdiction mismatch,Govt-Health,v5.7,No,Event remain once talk someone game low blue reality.,No,2022-01-18
+5f6f4fc4-ece7-400f-9cee-83a10d10c127,87,Female,HIV,Minor patient consent,Clinic-B,v4.4,No,Brother industry one body condition assume.,Yes,2023-08-31
+4cf6e14b-2adc-4444-b5d1-f4323c2c71a4,66,Female,HIV,Jurisdiction mismatch,Govt-Health,v1.5,Yes,Visit concern road phone here age store send.,Yes,2023-06-17
+021cc895-0873-45d8-a0d4-01226d1fee45,47,Female,Cancer,Conflicting legal terms,Clinic-B,v4.4,Yes,Land anyone success beautiful base none prove produce.,Yes,2022-08-21
+05c07f92-e305-4cb1-b022-ab0c74fc9144,23,Other,Cancer,Policy inconsistency,Govt-Health,v3.7,No,Mother bit development time set teach board training.,Yes,2021-03-04
+122faa77-43d8-40dc-bcf0-a8e8b3ff0fb0,71,Male,HIV,Conflicting legal terms,Hospital-A,v5.4,No,Position listen system hospital paper go executive must culture that woman hair.,No,2021-11-24
+f4bb5592-9f0b-4d6a-896f-0223385c20b0,42,Male,Asthma,Conflicting legal terms,NGO-Care,v3.8,Yes,Three history into wear enough lay especially important conference tree guess attention.,No,2024-12-24
+ec357b67-0ee1-45bc-81e1-26b0be63e0c8,61,Other,Cardiomyopathy,Conflicting legal terms,Clinic-B,v2.6,No,Training old around indeed impact buy perhaps allow our.,No,2020-07-06
+42836665-41f7-444f-9b25-72070c1ed430,42,Male,Asthma,Jurisdiction mismatch,Clinic-B,v3.4,No,Blue word main many film sell message series manage.,No,2020-09-03
+e31f713f-9a3f-44e2-953a-fa04bc5470be,9,Male,HIV,Minor patient consent,Govt-Health,v4.7,No,Indicate pass affect sense able nature thought enjoy method tough discover thousand.,Yes,2021-05-20
+acd88f65-3443-480d-bdf6-6d8c8bd6c5fa,89,Female,Diabetes,Data sharing consent,NGO-Care,v3.9,No,Entire community say often thank action language remain arrive second.,Yes,2023-04-03
+412f2412-7afa-42cf-a15d-54ab87661296,5,Male,HIV,Outdated guidelines,Govt-Health,v2.5,No,Sometimes protect power modern full live heart.,Yes,2023-07-25
+688e4b43-f55c-4c01-b7c5-60bb9cec9738,39,Male,Asthma,Outdated guidelines,Hospital-A,v4.6,No,Produce pretty performance be adult toward service southern whole.,Yes,2021-12-30
+ea9162fd-2d6c-4628-bf3f-4c470bd8f466,87,Female,Cardiomyopathy,Minor patient consent,Govt-Health,v2.1,No,Marriage family allow born understand well morning sure risk difficult listen.,Yes,2023-04-27
+bcb7488c-c1dc-4bce-8dc6-0aa24c58a36f,39,Other,Diabetes,Data sharing consent,Govt-Health,v2.3,Yes,Customer relate billion child since author behind information assume book.,Yes,2021-12-27
+ab405277-54ce-4fc5-8280-ab18648e3456,30,Female,Cancer,Conflicting legal terms,Hospital-A,v5.4,No,Set so go from church manager such final.,No,2021-12-19
+33c3ea5a-941b-4f14-8941-4fb88abd8768,25,Other,Cancer,Minor patient consent,Govt-Health,v1.5,No,Attention late part mouth fund benefit.,Yes,2025-03-05
+3b3e6343-74ee-4792-ae44-d5d1bad57e30,30,Other,Cardiomyopathy,Outdated guidelines,Hospital-A,v4.4,No,Picture choose brother likely water resource economic near.,Yes,2024-01-19
+dcdf6b14-6a3c-478f-9454-d6bbc63127af,52,Male,HIV,Minor patient consent,Clinic-B,v1.3,Yes,Culture glass certain view ten value quite stock.,No,2024-06-19
+98077bfe-c642-4ebc-83bd-ee5116635d26,47,Other,Asthma,Jurisdiction mismatch,Hospital-A,v5.6,Yes,Game entire support society election age place environmental support also more.,Yes,2025-08-10
+cbf96101-75bf-48e4-a4e2-ecb4d93a5a7d,90,Other,Diabetes,Data sharing consent,Clinic-B,v2.3,Yes,Health spring how air cold low law high its with send model avoid.,No,2023-11-27
+38e5502a-1d75-405c-af7f-ee58729cd852,32,Male,Asthma,Minor patient consent,Govt-Health,v5.2,Yes,Catch rule care life strong thus base child professional remember cold last.,Yes,2022-09-26
+b4b99ebb-a230-4ccb-ab31-5b993a75285e,60,Male,HIV,Conflicting legal terms,NGO-Care,v5.0,Yes,Pick line institution soon place us our into share nation down necessary.,Yes,2024-10-18
+78d5724e-71f1-4cd4-9173-d593acf15408,80,Male,Cancer,Policy inconsistency,Clinic-B,v5.0,No,Politics stock tree wrong go outside recently price teacher number.,No,2023-12-20
+1b8fdcd9-b8d6-4742-9a0e-7a2ab7b6ef46,57,Female,Cancer,Outdated guidelines,NGO-Care,v3.7,No,What west beat watch home election.,Yes,2022-12-01
+56e93463-cb96-4566-8d5f-cb217a46d078,48,Other,Asthma,Jurisdiction mismatch,Clinic-B,v2.2,No,Likely someone kid true sense learn heart note responsibility conference clearly there operation.,Yes,2020-05-25
+3607fb85-f554-479f-b6f8-cea823adfe57,48,Other,Hypertension,Policy inconsistency,NGO-Care,v4.6,Yes,Worry country everyone star doctor could big.,Yes,2020-07-24
+8986c643-5cf0-49ff-9588-d44805ff8635,79,Female,Diabetes,Outdated guidelines,NGO-Care,v4.0,Yes,Especially team son born between how building middle.,No,2020-07-26
+9deca041-096d-4f37-b9a1-2411ee8b4644,35,Male,Asthma,Conflicting legal terms,Clinic-B,v4.1,Yes,Within case million do cover main goal consider culture side hold eat.,Yes,2024-08-02
+d88897a7-fa68-4aa1-9c33-998a4e6da2f5,27,Male,Cancer,Data sharing consent,Govt-Health,v5.7,No,Concern purpose budget service safe prevent yourself teacher fine.,No,2024-04-05
+30720ca3-2afd-434c-b54f-73a866976a90,31,Male,Cardiomyopathy,Minor patient consent,Hospital-A,v3.9,No,Point ever best large family form sign station maybe table probably simply national.,Yes,2023-05-15
+00b0628e-66c7-4385-ba5e-79b721921250,39,Female,Diabetes,Conflicting legal terms,NGO-Care,v3.9,Yes,Response matter country able budget painting yard.,No,2023-01-09
+f4c9f1a8-456c-4f6d-9063-bb60f41f130e,58,Male,Diabetes,Data sharing consent,Hospital-A,v5.3,Yes,Grow likely structure authority author enjoy process always skill month mother war.,Yes,2021-06-13
+7a369cb8-9246-4425-87e9-c54fef3e3334,50,Other,HIV,Conflicting legal terms,Hospital-A,v5.9,Yes,After school role decision hold standard girl human usually practice law how in.,No,2023-06-14
+d9fa1226-4d19-42c0-9eeb-3cafac2f74c2,21,Male,Cardiomyopathy,Minor patient consent,NGO-Care,v5.0,Yes,Hard field speak serve figure each card million produce.,Yes,2025-07-30
+ce28c470-2dab-4407-b3c4-9720a4bc6b1b,21,Male,Diabetes,Data sharing consent,NGO-Care,v2.5,No,Participant great various field thought yard language laugh become.,Yes,2021-04-22
+1e449426-5285-4685-ac59-2a5de85af385,70,Male,Cardiomyopathy,Minor patient consent,Clinic-B,v2.4,Yes,Later oil official only arrive record ok employee about rise last.,Yes,2021-10-26
+ceb7f910-0748-40ff-b18b-55a326e31a14,78,Female,Diabetes,Conflicting legal terms,Clinic-B,v1.1,No,Now hospital marriage window investment southern pick such pressure.,Yes,2023-09-02
+91249b86-6722-466c-922f-193b9e677745,73,Male,HIV,Policy inconsistency,Hospital-A,v4.1,No,Left before make clear structure alone rock seek member have yard.,Yes,2024-01-12
+b46e9a0c-61a5-4ecc-914b-cb012b214db1,38,Other,Asthma,Outdated guidelines,Clinic-B,v3.9,No,It throughout lay feel party officer plant teach usually.,Yes,2022-08-22
+f1f11d3c-c498-4573-b28b-1bbb4aee9e54,6,Female,Diabetes,Minor patient consent,Clinic-B,v5.7,Yes,Our star anything eye fund if two range drop single want.,Yes,2021-12-29
+c7c848a3-7ec1-43e4-8870-ecca217b4711,89,Other,HIV,Jurisdiction mismatch,Hospital-A,v2.6,Yes,Happen agent money major religious whom serve economy.,No,2025-07-10
+f3ae5276-0d16-4c22-b2c7-db5a6e53cad7,56,Female,Hypertension,Jurisdiction mismatch,Hospital-A,v1.8,No,Fall type exist be enjoy energy not involve face.,Yes,2022-01-18
+7e863337-a492-4b63-8897-54fb98606027,76,Male,Hypertension,Data sharing consent,Hospital-A,v2.5,No,Real his say yes girl consumer.,Yes,2025-02-20
+f17d6f8b-477d-41e9-8d77-ac64514519fa,51,Female,Hypertension,Policy inconsistency,Hospital-A,v2.2,Yes,Free movie without make rather should building.,No,2022-08-02
+f5c215b6-3ce2-4bf8-8863-d2ae1563fbc9,29,Female,HIV,Jurisdiction mismatch,Hospital-A,v5.6,Yes,Bar where amount man war court.,Yes,2025-07-20
+378dfb38-2b81-404d-8309-407d6a5d22a4,56,Other,Hypertension,Data sharing consent,Hospital-A,v3.2,No,Resource red decide adult appear by home full.,No,2022-03-11
+3a93c877-ce39-4a34-9e16-4e8390703e95,51,Male,HIV,Outdated guidelines,NGO-Care,v2.0,No,Enjoy point step chance home return decision spend.,No,2023-03-26
+b9376fd1-2b1d-4614-960d-0ef9f775c5a9,73,Other,Hypertension,Outdated guidelines,NGO-Care,v5.8,Yes,Show better close in spend cover participant might war.,Yes,2023-10-23
+53dc44d2-57f6-4fd7-a6ad-aaa50b6a11d4,79,Male,HIV,Conflicting legal terms,Govt-Health,v2.8,Yes,Listen or person side truth great girl office financial large.,Yes,2023-07-15
+762737ef-7c73-403a-a6bd-73f16deb572e,74,Male,Cardiomyopathy,Data sharing consent,Govt-Health,v4.7,No,Whom think already war message appear nearly want soldier north.,Yes,2022-02-23
+c651900d-cb44-4a4c-8809-035ed368ec4d,88,Male,HIV,Jurisdiction mismatch,Govt-Health,v1.9,No,Cut believe each middle fill together music although wear identify interest across.,Yes,2022-04-17
+583f7146-19cf-4a39-9f7e-1683dc4bdd45,32,Male,Cardiomyopathy,Jurisdiction mismatch,NGO-Care,v1.3,No,Bed glass baby south into evidence bring candidate.,No,2023-07-15
+05853a33-3984-4d8c-aaa3-3d0d3759f4a1,42,Female,Cancer,Jurisdiction mismatch,Clinic-B,v2.8,No,Next have contain adult more analysis away technology design shake collection marriage.,No,2021-05-28
+f6d1c10d-cf98-4e30-9bcf-9b74929b5850,63,Male,HIV,Data sharing consent,NGO-Care,v3.8,Yes,At wait she walk everybody need suddenly little bring.,Yes,2024-06-03
+e6a9a9ed-697f-42b7-935b-c6afe760b3a9,55,Male,Hypertension,Conflicting legal terms,NGO-Care,v2.6,No,Keep whom likely determine remain across position assume we party computer rather.,No,2023-03-06
+31866b28-ff4e-422f-a6bb-1d7b72a46223,27,Male,Hypertension,Data sharing consent,Hospital-A,v3.9,Yes,Health memory fast still act mind while career.,Yes,2021-01-09
+ab2cb899-f4d5-4c4e-84b4-114a812fe71c,9,Female,HIV,Policy inconsistency,Govt-Health,v5.4,No,Tree dream country how walk hour young effect your.,No,2022-10-02
+b4151cdc-44f5-4a0a-a4f8-9079a28b1b27,55,Female,Cancer,Minor patient consent,Clinic-B,v1.3,No,Nature open laugh network left her certain a daughter town idea table quickly.,No,2021-02-03
+39801ee9-ffe5-44aa-b6c2-8c80d4ee58fa,59,Other,Cardiomyopathy,Conflicting legal terms,NGO-Care,v5.0,No,Discussion impact test pick hope green.,Yes,2024-05-01
+2108631a-a027-4649-b5ac-b8f03f9e0cc4,11,Female,Cancer,Minor patient consent,NGO-Care,v2.0,No,Skin single area market us firm such term.,Yes,2025-05-26
+5f95be6e-f82a-4e06-8475-9405278eb6f2,26,Male,Diabetes,Data sharing consent,Govt-Health,v1.2,Yes,Begin about fall thousand house such firm.,Yes,2023-05-30
+99d804e3-6508-43c6-906c-861fdc63e06b,73,Other,HIV,Outdated guidelines,Hospital-A,v3.5,Yes,Pay half accept know note realize morning.,No,2024-01-23
+e585e9ca-fcb8-494b-b631-5b534ea1a85d,50,Other,HIV,Jurisdiction mismatch,NGO-Care,v1.8,Yes,Cell democratic guess yet song within person social.,Yes,2025-04-12
+bd26f522-f00d-48f8-ac70-ca825ab945e4,80,Female,Diabetes,Jurisdiction mismatch,NGO-Care,v2.7,No,Sense president major language which light after pick then rather news special.,No,2024-12-02
+9d58e64a-fd3a-4fdf-a4f4-94d23acb0c0c,45,Other,Cancer,Policy inconsistency,NGO-Care,v2.5,No,Performance always important single simply represent when similar bit kitchen occur road international.,No,2023-05-28
+8a8fa755-ff52-4522-b2bc-d47b9f928b0e,45,Other,Asthma,Jurisdiction mismatch,Govt-Health,v5.1,Yes,Development job follow only wait though still.,No,2024-02-29
+23e52d1a-5fd5-41d1-8d9f-967e58d9e218,80,Female,Cancer,Minor patient consent,Govt-Health,v3.1,No,Example cause church thus for country whole including name land.,No,2022-05-06
+004e6726-11e7-49c2-8931-597658232ec4,26,Female,Asthma,Policy inconsistency,NGO-Care,v4.2,No,Check month arm stage miss effort fine father.,Yes,2023-02-11
+4f84bf35-abb3-491c-890c-40a1e1bf7e38,5,Male,Hypertension,Policy inconsistency,Clinic-B,v1.1,Yes,Add well would interesting me guy guy however explain moment whom experience film.,No,2024-09-18
+5b54afc5-0a9a-4489-91fe-8b25e880d3de,42,Female,Cancer,Policy inconsistency,Govt-Health,v5.6,No,Condition in rule collection way doctor pattern cause officer.,No,2020-12-08
+c987223e-7323-4545-8539-700b7c8fd6c6,14,Male,Hypertension,Data sharing consent,NGO-Care,v1.5,Yes,Term find very avoid writer eye manage tell.,No,2021-09-02
+2d4a2647-7d86-4e0e-81ea-de92e42fedf3,44,Female,Hypertension,Jurisdiction mismatch,Hospital-A,v3.9,Yes,Through executive option season sense voice community.,Yes,2022-10-31
+fec3d8c9-735c-4194-9636-501ab3a18a93,46,Other,Cardiomyopathy,Data sharing consent,Hospital-A,v3.9,No,Answer policy term statement interesting others lose then.,Yes,2023-07-03
+94c2ce3b-91cb-4c45-a018-16fc435026b3,75,Male,Cardiomyopathy,Jurisdiction mismatch,Govt-Health,v1.7,Yes,Plan member final catch left real could.,No,2023-07-22
+11888b8b-0134-4737-a1c5-5147ab86962e,59,Other,Cancer,Data sharing consent,Govt-Health,v4.0,Yes,Believe office enough although in final or section parent.,No,2020-10-07
+709fc6fe-684a-4f6e-963f-c61d2484bc2c,34,Male,Cancer,Jurisdiction mismatch,Clinic-B,v5.0,No,Reach front nearly home staff window hour five sing street chance less.,No,2020-04-08
+b87127d7-9f21-4a57-8599-5ee660b8cb52,82,Other,Cardiomyopathy,Conflicting legal terms,Govt-Health,v3.0,No,Run increase much area management modern leave carry national head with agency usually.,Yes,2025-08-06
+66f42f52-6f81-4f1d-ac48-a50e38877b81,20,Female,HIV,Outdated guidelines,Govt-Health,v2.2,No,Represent kid protect letter up owner toward student hot pattern watch claim wear.,Yes,2020-11-14
+b04fd14f-50d1-43c0-939a-fc2841e351d5,11,Other,Hypertension,Data sharing consent,NGO-Care,v3.5,No,Travel bank commercial smile ball enjoy moment bad budget sing list someone.,Yes,2023-06-09
+6e22396a-940e-4504-a2c9-0dd2a9be6cbc,20,Female,Cancer,Policy inconsistency,Clinic-B,v2.7,No,Laugh memory political administration your of they pull site bar.,No,2022-06-12
